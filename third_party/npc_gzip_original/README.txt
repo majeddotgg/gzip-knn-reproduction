@@ -1,0 +1,1 @@
+Unmodified copies of two files from https://github.com/bazingagin/npc_gzip (commit 928659e), MIT licence. Used only by tests/test_ncd_knn.py to check that our 'optimistic' tie rule reproduces the original calc_acc().

@@ -1,0 +1,184 @@
+[
+ {
+  "text": "abirabure bariko barafatwa nabi gihugu ca chine mugisagara ca guanzou ivyo vyatanguye igihe abirabure batari bake baturuka gihugu ca nigeria batorwako ingwara coronavirus iyo ngwara ikaba yatanguye kuvurwa murico gihugu nyene c’ubuchinwa gisagara ca wuhan ikaba yaciye ikwira isi nubu ikaba iriko ira",
+  "gold": "0",
+  "pred": "1",
+  "neighbour": "umumenyereza w’intamba z’abatarenza imyaka avuga bagiye kuzana itsinzi can u umumenyereza w’umurwi nserukiragihugu w’intamba rugamba z’abatarenza imyaka joslin bipfubusa amenyeshako abakinyi buwo murwi bagiye kwitaba ihiganwa ry’igikombe ca afrika c’abatarenza imyaka gushika bahagaze neza kandi ihan",
+  "ncd": 0.831345796585083
+ },
+ {
+  "text": "umukuru w’igihugu petero nkurunziza yongeye kuvuga ahagaze umukuru w’igihugu cacu petero nkurunziza yatunganije ikiganiro kubanyagihugu biciye kumaradiyo akorera gihugu cacu kumihora terefoneumukuru w’igihugu petero nkurunziza ingingo indwi nizo zituma mwaka aremesha ikiganiro biciye kumaradiyo gihu",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "ibanki y’abarimyi n’aborozi hamwe n’ibanki y’abakenyezi zigiye gushingwa mezi imbere igenekerezo mbere rusama umwaka utashe abakozi n’abakoresha burundi bihugu vyinshi barahimbaza umusi mpuzamakungu w’abakozi n’akazi mw’ijambo yashikirije umukuru w’igihugu c’uburundi petero nkurunziza yamenyesheje k",
+  "ncd": 0.866852879524231
+ },
+ {
+  "text": "icuka c’imbere y’amatora ntigihumuriza inama nkuru y’abepiscopi gatolika mw’itangazo inama nkuru y’episikopi gatolika yaraye isohoye ry’anasomwe mashengero gatolika w’imana igenekerezo nyakanga nama isaba abakirisu n’abarundi atawokwigira sindabibazwa biringo bihambaye vy’amatora uburundi bwimirije ",
+  "gold": "0",
+  "pred": "10",
+  "neighbour": "abepiskopi gatolika b’i burundi basohoye itangazo bavugamwo hari urudandazwa rw’abana b’abigeme bongera bamenyesha bahagaritswe umutima n’itotezwa rikorerwa impunzi z’abarundi ziri gihugu ca tanzaniya muri iryo tangazo risozera inama y’abepiskopi gatolika b’i burundi ruheshi yabereye i gitega kw’ige",
+  "ncd": 0.826714813709259
+ },
+ {
+  "text": "olucome isaba leta kuganira nabayifasha kugira amahera gaciro asubire kuboneka mw’itangazo sohowe n’ishirahamwe ridaharanira ivyi caro vya politike olucome rivuga makuru rifise nk’uko vyavuzwe n’umushikiranganji w’ubudandaji hibonekeza ubukene bw’ibinyobwa bimwe bimwe vya brarudi bukene olucome ibon",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "olucome irahagaritswe umutima n’ideni ryo hagati gihugu riguma riduga mw’itangazo ry’ishirahamwe ryishinze kurwanya igiturire n’abasesagura amatungo leta olucome rirarajwe ishinga n’ideni leta ribandanya riduga bukeye bwije olucome ikavuga kubera ivyasabwe n’ibanki y’isi leta yacishima gusaba ideni ",
+  "ncd": 0.8065650463104248
+ },
+ {
+  "text": "icuka c’imbere y’amatora ntigihumuriza inama nkuru y’abepiscopi gatolika mw’itangazo inama nkuru y’episikopi gatolika yaraye isohoye ry’anasomwe mashengero gatolika w’imana igenekerezo nyakanga nama isaba abakirisu n’abarundi atawokwigira sindabibazwa biringo bihambaye vy’amatora uburundi bwimirije ",
+  "gold": "0",
+  "pred": "10",
+  "neighbour": "abepiskopi gatolika b’i burundi basohoye itangazo bavugamwo hari urudandazwa rw’abana b’abigeme bongera bamenyesha bahagaritswe umutima n’itotezwa rikorerwa impunzi z’abarundi ziri gihugu ca tanzaniya muri iryo tangazo risozera inama y’abepiskopi gatolika b’i burundi ruheshi yabereye i gitega kw’ige",
+  "ncd": 0.826714813709259
+ },
+ {
+  "text": "umurundikazi yemeza yavyaranye diamond platnumz umwigeme yiyita jessica rubuga instagram umurundikazi afise imyaka y’amavuka avuga amahasa yiwe y’abakobwa yavyaranye diamind afise imyaka ine ans uwo mwigeme avuga yatanguye kuryamana diamond ubwa mbere igihe muririmvyi yariko akora vido y’ururirimbo ",
+  "gold": "4",
+  "pred": "8",
+  "neighbour": "burundi events yatanguje icese itorwa miss burundi mu kiganiro yahaye abamenyeshamakuru andre hakizimana yavuze ihiganwa miss burundi ritunganywa ntumbero kwugurura imiryango kugira uburundi bumenyekane makungu biciye mico kama andre hakizimana yavuze itorwa miss burundi ata mvo poritike canke z’aho",
+  "ncd": 0.8812915682792664
+ },
+ {
+  "text": "ubwo abantu bagumye bibaza ico amaterefone yabaye vyoba vyavuye kuki vyakozwe nande ivyazindutse bivugwa gitondo co gatatu imbuga ngurukanabumenyi burundi zoba zaciwe musi w’amatora bihejeje kwemezwa n’ishirahamwe netblocks risanzwe arivyo ritunganya imbuga ngurukanabumenyo kw’isi iryo shirahamwe ri",
+  "gold": "6",
+  "pred": "0",
+  "neighbour": "umwe mubirukanywe cndd fdd yemeye agiye gutaha inyuma y’imyaka uwahoze arongoye umugambwe ku butegetsi cndd fdd jrmie ngendakumana aremeza agiye gutahuka gihugu c’amuvyaye uburundi avuga azoba atashe nk’umunyapolitike ashaka kuja matora y’uwu mwaka ntumbero yoguterera mukwubaka igihugu ca mwibarutse",
+  "ncd": 0.8017241358757019
+ },
+ {
+  "text": "chanel nsabimbona yemeza umwana afise ikibanza gito bimenyeshamakuru umuyobozi mukuru w’ubushikiranganji kumenyeshamakuru hamwe n’ibimenyeshamakuru chanel nsabimbona amenyeshako bagiye gushiraho urunani umugenzi w’umwana ruzofasha guha umwana ikibanza gikwiye bimenyeshamakuru kuko basanze umwana afi",
+  "gold": "6",
+  "pred": "3",
+  "neighbour": "prosper muyuku ibice kw’ijana vy’abana barapfa kubera kudakaraba amaboko n’isabuni ivyo yabishikirije ruganda ico gisata c’ubushikiranganji bw’amagara y’abantu kugwanya sida catunganije bamenyeshamakuru kwitegurira umusi mpuzamakungu wahariwe gukaraba n’isabuni ntumbero kubasaba kugira bafashe guhim",
+  "ncd": 0.8264248967170715
+ },
+ {
+  "text": "brb yahagaritse ingingo yabuza gusaba kugurura amashirahamwe adandaza amafaranga y’agaciro ibanki nkuru repuburika y’uburundi brb imenyeshako abipfuza kwuguruza amashirahamwe agura akongera akagurisha amafaranga y’agaciro bahawe uburenganzira kubisaba mw’itangazo umukuru w’ibanki nkuru y’igihugu brb",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "amashirahamwe mpuzamakungu yongewe ikiringo kugira yitunganye amashirahamwe mpuzamakungu akorera burundi yongewe ikiringo c’ukwezi kumwe hamwe n’igice kugira abandanye yitunganya kwisunga itegeko rishasha riyagenga nk’uko vyasabwe n’inama nkuru y’igihugu ijejwe umutekano mw’itangazo ry’ubushikiranga",
+  "ncd": 0.7077922224998474
+ },
+ {
+  "text": "abigeme biruka bafise imero z’igihungu basabwe gufata imiti kugabanya mero iryo shirahamwe rivuga hari abanonotsi bamwe biruka ruhande rw’abigeme ariko bafise imyifato n’ingene baremwe vyegereye abahungu baremwe muri bavuzwe aharimwo umunya afrika yepfo caster semenya yiruka imetero hamwe n’imetero ",
+  "gold": "1",
+  "pred": "0",
+  "neighbour": "parcem isaba abanyeporitike gufasha gutorera umuti ikibazo c’ubukene kiri gihugu ishirahamwe ryishinze gukangurira abarundi guhindura ingendo n’ivyiyumviro parcem risaba abanyeporitike b’uburundi gukora ibishoboka kugira bafashe gutorera umuti ikibazo c’ubukene kiri gihugu ivyo yabishikirije n’umuku",
+  "ncd": 0.8041666746139526
+ },
+ {
+  "text": "ubwo abantu bagumye bibaza ico amaterefone yabaye vyoba vyavuye kuki vyakozwe nande ivyazindutse bivugwa gitondo co gatatu imbuga ngurukanabumenyi burundi zoba zaciwe musi w’amatora bihejeje kwemezwa n’ishirahamwe netblocks risanzwe arivyo ritunganya imbuga ngurukanabumenyo kw’isi iryo shirahamwe ri",
+  "gold": "6",
+  "pred": "0",
+  "neighbour": "umwe mubirukanywe cndd fdd yemeye agiye gutaha inyuma y’imyaka uwahoze arongoye umugambwe ku butegetsi cndd fdd jrmie ngendakumana aremeza agiye gutahuka gihugu c’amuvyaye uburundi avuga azoba atashe nk’umunyapolitike ashaka kuja matora y’uwu mwaka ntumbero yoguterera mukwubaka igihugu ca mwibarutse",
+  "ncd": 0.8017241358757019
+ },
+ {
+  "text": "abarondera amakarata y’itora baridogera imirwi ceci gisagara ca bujumbura mu gihe hasigaye umunsi umwe kugira ikiringo giherutse kwongerezwa n’umurwi ceni co gutora amakarata y’itora kirangire gisagara ca bujumbura haracibonekeza imiringo miremire yabarondera makarata mashasha n’ayo makarata nyene b",
+  "gold": "0",
+  "pred": "12",
+  "neighbour": "ku mashure amw’amwe gisagara ca bujumbura abanyeshure biga barambije hasi mu gihehaciye iminsi mike gusa umwaka w’ishure - utanguye gisagara cabujumbura haribonekeza ubwinshi bw’abana mashure amw’amwe ivyo vyo bigatumahari abiga bicaye hasi ikinyamakuru jimbere caragendeye amwe yobaratuyagira ibitar",
+  "ncd": 0.8638613820075989
+ },
+ {
+  "text": "umukuru w’igihugu yahagaritse intererano y’amatora umukuru w’igihugu pierre nkurunziza amenyeshako kubera uburyo bw’amatora mwaka busa n’ubwakwiye igikorwa co guterera amatora mwaka vyahora bikorwa n’abarundi rusangi hamwe n’abakozi reta bihagaritswe bikazokorwa n’abavyipfuza gusa ivyo yabishikirije",
+  "gold": "0",
+  "pred": "1",
+  "neighbour": "intererano irenga imiriyoni yatanzwe n’amashirahaamwe mugambi dushigikireintambazacu amashirahamwe ashika harimwo amabanki akora ubudandaji hamwe n’abantu bigenga gatwe kabo batanze intererano y’amafaranga angana imiriyoni y’amafaranga y’amarundi kuruno gatatu igenekerezo rusama mugambi witiriwe dus",
+  "ncd": 0.8354297876358032
+ },
+ {
+  "text": "abigeme biruka bafise imero z’igihungu basabwe gufata imiti kugabanya mero iryo shirahamwe rivuga hari abanonotsi bamwe biruka ruhande rw’abigeme ariko bafise imyifato n’ingene baremwe vyegereye abahungu baremwe muri bavuzwe aharimwo umunya afrika yepfo caster semenya yiruka imetero hamwe n’imetero ",
+  "gold": "1",
+  "pred": "0",
+  "neighbour": "parcem isaba abanyeporitike gufasha gutorera umuti ikibazo c’ubukene kiri gihugu ishirahamwe ryishinze gukangurira abarundi guhindura ingendo n’ivyiyumviro parcem risaba abanyeporitike b’uburundi gukora ibishoboka kugira bafashe gutorera umuti ikibazo c’ubukene kiri gihugu ivyo yabishikirije n’umuku",
+  "ncd": 0.8041666746139526
+ },
+ {
+  "text": "umurundikazi yemeza yavyaranye diamond platnumz umwigeme yiyita jessica rubuga instagram umurundikazi afise imyaka y’amavuka avuga amahasa yiwe y’abakobwa yavyaranye diamind afise imyaka ine ans uwo mwigeme avuga yatanguye kuryamana diamond ubwa mbere igihe muririmvyi yariko akora vido y’ururirimbo ",
+  "gold": "4",
+  "pred": "8",
+  "neighbour": "burundi events yatanguje icese itorwa miss burundi mu kiganiro yahaye abamenyeshamakuru andre hakizimana yavuze ihiganwa miss burundi ritunganywa ntumbero kwugurura imiryango kugira uburundi bumenyekane makungu biciye mico kama andre hakizimana yavuze itorwa miss burundi ata mvo poritike canke z’aho",
+  "ncd": 0.8812915682792664
+ },
+ {
+  "text": "umukuru w’igihugu petero nkurunziza yongeye kuvuga ahagaze umukuru w’igihugu cacu petero nkurunziza yatunganije ikiganiro kubanyagihugu biciye kumaradiyo akorera gihugu cacu kumihora terefoneumukuru w’igihugu petero nkurunziza ingingo indwi nizo zituma mwaka aremesha ikiganiro biciye kumaradiyo gihu",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "ibanki y’abarimyi n’aborozi hamwe n’ibanki y’abakenyezi zigiye gushingwa mezi imbere igenekerezo mbere rusama umwaka utashe abakozi n’abakoresha burundi bihugu vyinshi barahimbaza umusi mpuzamakungu w’abakozi n’akazi mw’ijambo yashikirije umukuru w’igihugu c’uburundi petero nkurunziza yamenyesheje k",
+  "ncd": 0.866852879524231
+ },
+ {
+  "text": "brb yahagaritse ingingo yabuza gusaba kugurura amashirahamwe adandaza amafaranga y’agaciro ibanki nkuru repuburika y’uburundi brb imenyeshako abipfuza kwuguruza amashirahamwe agura akongera akagurisha amafaranga y’agaciro bahawe uburenganzira kubisaba mw’itangazo umukuru w’ibanki nkuru y’igihugu brb",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "amashirahamwe mpuzamakungu yongewe ikiringo kugira yitunganye amashirahamwe mpuzamakungu akorera burundi yongewe ikiringo c’ukwezi kumwe hamwe n’igice kugira abandanye yitunganya kwisunga itegeko rishasha riyagenga nk’uko vyasabwe n’inama nkuru y’igihugu ijejwe umutekano mw’itangazo ry’ubushikiranga",
+  "ncd": 0.7077922224998474
+ },
+ {
+  "text": "econet leo yatanguje ubuhinga bushasha econet connected car bufasha gukwirikirana imodoka igeze ishirahamwe ryo gutumatumanako econet leo ryatanguje kumugaragaro kur-uno gatatu igenekerezo gitugutu ubuhinga bushasha biciye buhinga none econet connected car bufasha gukwirikirana imiduga igeze umwanya",
+  "gold": "2",
+  "pred": "6",
+  "neighbour": "econet leo yatanze intererano y’amabati ishirahamwe ryo gutumatumanako econet leo ryatanze kuruno gatandatu igenekerezo munyonyo umwaka intererano y’amabati agenewe gusakara ibirasi hamwe n’ibaraza vyo kw’ishure nshingiro karindo riri gacimbiri karindo k’umusozi rutana zone rutana komine n’intara ru",
+  "ncd": 0.8602811694145203
+ },
+ {
+  "text": "abarondera amakarata y’itora baridogera imirwi ceci gisagara ca bujumbura mu gihe hasigaye umunsi umwe kugira ikiringo giherutse kwongerezwa n’umurwi ceni co gutora amakarata y’itora kirangire gisagara ca bujumbura haracibonekeza imiringo miremire yabarondera makarata mashasha n’ayo makarata nyene b",
+  "gold": "0",
+  "pred": "12",
+  "neighbour": "ku mashure amw’amwe gisagara ca bujumbura abanyeshure biga barambije hasi mu gihehaciye iminsi mike gusa umwaka w’ishure - utanguye gisagara cabujumbura haribonekeza ubwinshi bw’abana mashure amw’amwe ivyo vyo bigatumahari abiga bicaye hasi ikinyamakuru jimbere caragendeye amwe yobaratuyagira ibitar",
+  "ncd": 0.8638613820075989
+ },
+ {
+  "text": "umukuru w’igihugu yahagaritse intererano y’amatora umukuru w’igihugu pierre nkurunziza amenyeshako kubera uburyo bw’amatora mwaka busa n’ubwakwiye igikorwa co guterera amatora mwaka vyahora bikorwa n’abarundi rusangi hamwe n’abakozi reta bihagaritswe bikazokorwa n’abavyipfuza gusa ivyo yabishikirije",
+  "gold": "0",
+  "pred": "1",
+  "neighbour": "intererano irenga imiriyoni yatanzwe n’amashirahaamwe mugambi dushigikireintambazacu amashirahamwe ashika harimwo amabanki akora ubudandaji hamwe n’abantu bigenga gatwe kabo batanze intererano y’amafaranga angana imiriyoni y’amafaranga y’amarundi kuruno gatatu igenekerezo rusama mugambi witiriwe dus",
+  "ncd": 0.8354297876358032
+ },
+ {
+  "text": "abirabure bariko barafatwa nabi gihugu ca chine mugisagara ca guanzou ivyo vyatanguye igihe abirabure batari bake baturuka gihugu ca nigeria batorwako ingwara coronavirus iyo ngwara ikaba yatanguye kuvurwa murico gihugu nyene c’ubuchinwa gisagara ca wuhan ikaba yaciye ikwira isi nubu ikaba iriko ira",
+  "gold": "0",
+  "pred": "1",
+  "neighbour": "umumenyereza w’intamba z’abatarenza imyaka avuga bagiye kuzana itsinzi can u umumenyereza w’umurwi nserukiragihugu w’intamba rugamba z’abatarenza imyaka joslin bipfubusa amenyeshako abakinyi buwo murwi bagiye kwitaba ihiganwa ry’igikombe ca afrika c’abatarenza imyaka gushika bahagaze neza kandi ihan",
+  "ncd": 0.831345796585083
+ },
+ {
+  "text": "abategetsi batari bake barasabwa gukora ibishoboka vyose kugira kwubaka i nyabugete iv bihagarare mw’ikete umuyobozi mukuru w’ikigo kijejwe gutunganya ibijanye n’ibisagara yandikiye musitanteri komine muha hano mugisgara ca bujumbura igekenrezo nyakanga uwu mwaka akaba kandi yarahaye gopi umushikira",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "ubushikiranganji bw’intwaro yohagati gihugu bwahagurukiye iduzwa ry’ibiciro ridakurikije mategeko mw’ikete umushikiranganji w’intwaro hagati pascal barandagiye yandikiye igenekerezo munyonyo uwu mwaka bulamatari b’intara zose n’umukuru w’igisagara ca bujumbura abamenyesha hibonekeza ukuduza hadakuri",
+  "ncd": 0.7954971790313721
+ },
+ {
+  "text": "olucome isaba leta kuganira nabayifasha kugira amahera gaciro asubire kuboneka mw’itangazo sohowe n’ishirahamwe ridaharanira ivyi caro vya politike olucome rivuga makuru rifise nk’uko vyavuzwe n’umushikiranganji w’ubudandaji hibonekeza ubukene bw’ibinyobwa bimwe bimwe vya brarudi bukene olucome ibon",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "olucome irahagaritswe umutima n’ideni ryo hagati gihugu riguma riduga mw’itangazo ry’ishirahamwe ryishinze kurwanya igiturire n’abasesagura amatungo leta olucome rirarajwe ishinga n’ideni leta ribandanya riduga bukeye bwije olucome ikavuga kubera ivyasabwe n’ibanki y’isi leta yacishima gusaba ideni ",
+  "ncd": 0.8065650463104248
+ },
+ {
+  "text": "chanel nsabimbona yemeza umwana afise ikibanza gito bimenyeshamakuru umuyobozi mukuru w’ubushikiranganji kumenyeshamakuru hamwe n’ibimenyeshamakuru chanel nsabimbona amenyeshako bagiye gushiraho urunani umugenzi w’umwana ruzofasha guha umwana ikibanza gikwiye bimenyeshamakuru kuko basanze umwana afi",
+  "gold": "6",
+  "pred": "3",
+  "neighbour": "prosper muyuku ibice kw’ijana vy’abana barapfa kubera kudakaraba amaboko n’isabuni ivyo yabishikirije ruganda ico gisata c’ubushikiranganji bw’amagara y’abantu kugwanya sida catunganije bamenyeshamakuru kwitegurira umusi mpuzamakungu wahariwe gukaraba n’isabuni ntumbero kubasaba kugira bafashe guhim",
+  "ncd": 0.8264248967170715
+ },
+ {
+  "text": "abategetsi batari bake barasabwa gukora ibishoboka vyose kugira kwubaka i nyabugete iv bihagarare mw’ikete umuyobozi mukuru w’ikigo kijejwe gutunganya ibijanye n’ibisagara yandikiye musitanteri komine muha hano mugisgara ca bujumbura igekenrezo nyakanga uwu mwaka akaba kandi yarahaye gopi umushikira",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "ubushikiranganji bw’intwaro yohagati gihugu bwahagurukiye iduzwa ry’ibiciro ridakurikije mategeko mw’ikete umushikiranganji w’intwaro hagati pascal barandagiye yandikiye igenekerezo munyonyo uwu mwaka bulamatari b’intara zose n’umukuru w’igisagara ca bujumbura abamenyesha hibonekeza ukuduza hadakuri",
+  "ncd": 0.7954971790313721
+ },
+ {
+  "text": "econet leo yatanguje ubuhinga bushasha econet connected car bufasha gukwirikirana imodoka igeze ishirahamwe ryo gutumatumanako econet leo ryatanguje kumugaragaro kur-uno gatatu igenekerezo gitugutu ubuhinga bushasha biciye buhinga none econet connected car bufasha gukwirikirana imiduga igeze umwanya",
+  "gold": "2",
+  "pred": "6",
+  "neighbour": "econet leo yatanze intererano y’amabati ishirahamwe ryo gutumatumanako econet leo ryatanze kuruno gatandatu igenekerezo munyonyo umwaka intererano y’amabati agenewe gusakara ibirasi hamwe n’ibaraza vyo kw’ishure nshingiro karindo riri gacimbiri karindo k’umusozi rutana zone rutana komine n’intara ru",
+  "ncd": 0.8602811694145203
+ }
+]

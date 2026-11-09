@@ -1,0 +1,37 @@
+{
+ "KirundiNews": {
+  "n_test": 923,
+  "test_in_train": 793,
+  "test_in_train_rate": 0.8591549295774648,
+  "dup_with_conflicting_label": 160,
+  "train_internal_duplicates": 1940
+ },
+ "KinyarwandaNews": {
+  "n_test": 4254,
+  "test_in_train": 2226,
+  "test_in_train_rate": 0.5232722143864598,
+  "dup_with_conflicting_label": 236,
+  "train_internal_duplicates": 7939
+ },
+ "SwahiliNews": {
+  "n_test": 7338,
+  "test_in_train": 34,
+  "test_in_train_rate": 0.0046334150994821474,
+  "dup_with_conflicting_label": 0,
+  "train_internal_duplicates": 0
+ },
+ "DengueFilipino": {
+  "n_test": 346,
+  "test_in_train": 9,
+  "test_in_train_rate": 0.02601156069364162,
+  "dup_with_conflicting_label": 0,
+  "train_internal_duplicates": 62
+ },
+ "R8": {
+  "n_test": 2189,
+  "test_in_train": 4,
+  "test_in_train_rate": 0.001827318410232983,
+  "dup_with_conflicting_label": 0,
+  "train_internal_duplicates": 69
+ }
+}

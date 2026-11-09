@@ -1,0 +1,282 @@
+[
+ {
+  "text": "- intashyo ikipe y’igihugu amavubi -ese habuze kugeza magingo imyaka irihiritse amaso yaraheze kirere abanyarwanda bafite inyota kongera kwinaga ibicu ubufatanye buri wese niwo muti ku itariki nyakanga nyuma y’urugendo rutoroshye nibwo abahungu b’amavubi besheje umuhigo kujyana u rwanda gikombe cy’a",
+  "gold": "1",
+  "pred": "0",
+  "neighbour": "ni kihishe mubano mwiza hagati y’u rwanda congo gihe umubano w’u rwanda repubulika iharanira demokarasi congo jenoside yakorewe abatutsi yarangira wagiye urangwa kutizerana kwishishanya ndetse rimwe rimwe hakabaho gukozanyaho hagati y’ibihugu byombi ariko munsi urebye imibanire y’ibi bihugu perezida",
+  "ncd": 0.915186882019043
+ },
+ {
+  "text": "reba umuririmbyi diamond n’umugore barikubyina umuziki umuririmbyi diamond platnumz yishimanye bidasanzwe n’umugore zari hassan buryohe bw’urukundo gihe hari hashize iminsi inkuru zicicikana urugo rwabo ruri nzira gusenyuka reba ukuntu zari na diamond barikubyina umuziki bibereye mucyumba reba ukunt",
+  "gold": "4",
+  "pred": "3",
+  "neighbour": "tanasha donna yakoze indirimbo nshya nyuma gutandukana diamond arashaka bahangana muzikavideo tanasha donna umgugore mugihugu kenya wamamaye yakundanaga n’umuhanzi diamond platnumz tanzania yashyize hanze indirimbo nshya nyuma yuko atandukanye n’uyu mugabo tanasha yashyize hanze indirimbo yise sawa",
+  "ncd": 0.6872037649154663
+ },
+ {
+  "text": "ikirenga bahanzi kayirebwa amaze imyaka irenga muziki wimakaza umuco nyarwanda umunyabigwi muziki w’u rwanda ccile kayirebwa agiye gurataramira abanyarwanda gitaramo kiswe kirenga bahanzi akanashimirwa imyaka irenga amaze muziki wimakaza umuco nyarwanda uyu mugore w’igishongore utamenya akuze cyane ",
+  "gold": "0",
+  "pred": "4",
+  "neighbour": "byinshi gitaramo kizashimirwamo cecile kayirebwa ibyamamare birimo kayirebwa cecile maria yohana n’ibindi byamamare birimo muyango mani martin jules sentore karasira clarisse bamwe byamamare nyarwanda biririmba indirimbo zimakaza umuco nyarwanda bategerejwe gitaramo kizabera mujyi kigali mu kiganiro",
+  "ncd": 0.8433734774589539
+ },
+ {
+  "text": "minisitiri mushikiwabo yakiriwe neza n’abashoramari islael minisitiri w’ububanyi n’amahanga w’u rwanda louise mushikiwabo ruzinduko rw’iminsi ibiri israel agirana ibiganiro minisitiri w’intebe benjamin netanyahu perezida israel reuven rivlin minisitiri wungirije w’ububanyi n’amahanga tzipi hotovely ",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "perezida kagame yagiriye uruzinduko leta zunze ubumwe z’abarabu perezida paul kagame yagiriye uruzinduko rw’akazi leta zunze ubumwe z’abarabu yakiriwe n’igikomangoma cy’iki gihugu sheikh mohamed bin zayed al nahyan ibiganiro hagati y’aba bayobozi byibanze bufatanye hagati y’ibihugu byombi ndetse n’u",
+  "ncd": 0.8119122385978699
+ },
+ {
+  "text": "intambara y’amagambo hagati ama g p fla yatangiye bushyainkuru mu minsi ishize hatangiye intambara y’amagambo hagati y’abaraperi ama g the black p fla p fla yatangiye avuga muraperi hip hop yigeze akora akamwibutsa njyana yiyitirira atari iya babyeyi iby’aba baraperi byafashe indi ntera kugeza ama g",
+  "gold": "4",
+  "pred": "13",
+  "neighbour": "allioni yavuze impamvu adakeneye umukunzi kugeza ubuinkuru umuhanzikazi nyarwanda aline buzindu uzwi izina allioni wamenyekanye cyane ndirimbo tuza’ aheruka gukorana bruce melodie yavuze n’ubwo abantu benshi bakunze kwibaza yaba yarabuze umukunzi atari ahubwo mwanya kujya rukundo arabona hari kigani",
+  "ncd": 0.640130877494812
+ },
+ {
+  "text": "covid- abanyarwanda bakwiye kuba bavumbura imiti izarengera isi- musenyeri rucyahana ahumuriza abanyarwanda bazava bihe neza kuko bidakanganye ugereranyije n’ibyo banyuzemo jenoside yakorewe abatutsi buri munota abatutsi batagira ingano bicwaga bazizwa baremwe ati abanyarwanda bacu abahanga bacu bak",
+  "gold": "12",
+  "pred": "10",
+  "neighbour": "perezida kagame arakibaza uburyo abanyamadini jenoside bahindutse abaranga b’aho abicwa perezida paul kagame yavuze abanyarwanda bafite akazi gakomeye kwihanaguraho inenge basigiwe jenoside yakorewe abatutsi akomoza by’umwihariko banyamadini bayigizemo uruhare yabigarutseho nyakanga ijambo risoza am",
+  "ncd": 0.8444730043411255
+ },
+ {
+  "text": "ku myaka igitagangurirwa cyari gikuze kurusha ibindi cyapfuye -amateka yacyo igitagangurirwa cyari kizwi nk’igikuze kurusha ibindi isi rurema cyapfiriye australie myaka y’amavuko ngo ntabwo cyakenyuwe n’izabukuru ahubwo cyazize urupfu rutunguranye kuko cyarumwe gasimba bwoko bw’uruyuki gupe nkuko ab",
+  "gold": "12",
+  "pred": "11",
+  "neighbour": "imvura imaze guhitana abantu hirya hino gihugu guhera ukwakira mwaka bice bitandukanye by’igihugu hagaragaye imvura nyinshi kurusha iyari isanzwe ni imvura y’umuhindo minisiteri y’ibidukikije igaragaza ubwinshi bwayo bwatewe n’uruhurirane rw’imiyaga ituruka nyanjya y’u buhinde n’ituruka ishyamba con",
+  "ncd": 0.8768054246902466
+ },
+ {
+  "text": "centre afurikaumuyobozi w’ishami polisi onu yasuye abapolisi b’u rwanda butumwa bw’amahoroamafoto ku gicamunsi kane tariki nzeri nibwo maj gen lus carrilho umuyobozi w’ishami polisi muryango w’abibumbye onu kumwe brig gen ossama el moghazy umuyobozi wungirije w’intumwa z’umuryango w’abibumbye ziri b",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "igp munyuza yasuye abapolisi butumwa sudani y’epfo umuyobozi polisi y’u rwanda igp dan munyuza ruzinduko rw’iminsi ine sudani y’epfo yasuye itsinda ry’abapolisi b’u rwanda butumwa bw’umuryango w’abibumbye kubungabunga amahoro n’umutekano gihugu u rwanda rufite amatsinda atatu gihugu agizwe n’abapoli",
+  "ncd": 0.825024425983429
+ },
+ {
+  "text": "bralirwa yongereye ibiciro fanta uruganda rwenga ibinyobwa bisembuye n’ibidasembuye rwanda bralirwa ltd rwatangaje ibiciro bishya binyobwa bidasembuye ibyo biciro biratangira kubahirizwa mbere tariki kanama fanta icupa ry’ikirahuri santilitiro cl n’irya n’iyo icupa plastiki santilitiro cl byiyongere",
+  "gold": "2",
+  "pred": "1",
+  "neighbour": "ikipe angola yageze rwanda ikipe y’angola yageze rwanda isaha saa sita n’igice z’amanywa ije kwitabira amarushanwa chan azatangira tariki mutarama iyi ibaye ikipe kane igeze rwanda nyuma yaho repubulika iharanira demokarasi congo cameroun maroc zigeze i kigali ijoro ryo kuwa kabiri",
+  "ncd": 0.6701570749282837
+ },
+ {
+  "text": "minani washakishwaga kubera ibyaha jenoside yafatiwe i kigali yarihinduye umunyatanzaniya polisi y’u rwanda yataye yombi umugabo w’imyaka y’amavuko wiyitaga umutanzaniya akaba asanzwe ashakishwa n’ubutabera rwanda kubera uruhare yagize jenoside yakorewe abatutsi hussein minani warabonye ubwenegihugu",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "polisi y’u rwanda yamusubije imodoka yaratwawe bihemu kuri gatatu tariki gashyantare polisi y’ u rwanda yashyikirije imodoka umugabo w’umugande witwa kananura ndizeye moses yaribiwe gihugu uganda nyuma ikaza gufatirwa rwanda kuboza k’umwaka ushize umuvugizi polisi y’u rwanda assistant commissioner o",
+  "ncd": 0.8220000267028809
+ },
+ {
+  "text": "ubuyapani igikomangomakazi cyemeye gusezera umuryango cyami kubera urukundo ayako w’imyaka y’amavuko yasezeye burundu kuba igikomangoma kizaragwa ingoma kubera urukundo nk’uko itegeko ry’ubwami bw’ubuyapani ryashyizweho ribivuga abagore muryango w’i bwami bashakana n’umugabo utari muryango w’i bwami",
+  "gold": "13",
+  "pred": "3",
+  "neighbour": "thailand abana b’impanga bafite imyaka y’amavuko bashyingiranywe aba bana b’impanga bashyingiwe muhango w’ababudiste buddhist ceremony nyuma y’uko ababyeyi bemeje ntagushidikanya bombi bakundanaga buzima bwabo hambere kiwi musaza guitar bombi bafite imyaka bakorewe ibirori bikomeye byatwaye akayabo ",
+  "ncd": 0.8244513869285583
+ },
+ {
+  "text": "hatangijwe irushanwa ry’abafite impano kumurika imideli bakiri bato i kigali amafoto ccap yatangije gikorwa mugaragaro kuwa mata birori byabereye nyubako y’umurenge remera binyuze irushanwa ryiswe cca style awards rigamije guteza imbere urubyiruko rufite impano gukora imideli fashion designing kuyer",
+  "gold": "9",
+  "pred": "1",
+  "neighbour": "ntabwo wabyuka ube igihangange urabikorera ugashoramo imbaraga zawe-perezida kagame perezida paul kagame yabwiye urubyiruko rutozwa umukino basketball igikorwa kizwi giant of africa inzira kuba igihangange ukubikorera ndetse ukanashyiramo umuhate yabitangaje mbere tariki kanama yatangizaga amasomo a",
+  "ncd": 0.8253119587898254
+ },
+ {
+  "text": "amaherezo y’amazi y’imvura asenya ibintu i kigali azaba ayahe mu gihe amazi amanuka misozi ikikije kigali akomeje kwangiza byinshi abantu bakaba bibaza iherezo ryabyo bamwe mpuguke by’imitunganyirize y’imijyi bagaragaje abakora igenamigambi ry’imyubakire mujyi bakwiye kureka gukomeza kugendera kera ",
+  "gold": "3",
+  "pred": "2",
+  "neighbour": "u rwanda rwahawe miliyari frw azakoreshwa kubaka umujyi utangiza ibidukikije i kigali amasezerano atanga nkunga yashyiriweho umukono mujyi kigali gatanu tariki mutarama ahagarariwe minisitiri w’imari n’igenamigambi dr ndagijimana uzziel ambasaderi w’u budage rwanda dr thomas kurz umujyi utangiza ibi",
+  "ncd": 0.8737226128578186
+ },
+ {
+  "text": "abari bizeye urukingo sida ikizere cyashize kubera ibyabonetse igerageza ibyavuye igerageza ry’urukingo rwatuma abantu batandura virus itera sida byatumye icyizere cyuko rwaboneka kiyoyoka ikigo leta y’amerika gishinzwe ubuzima cyahagaritse igerageza ry’urukingo cyise hvtn nyuma y’igeragezwa ryarwo ",
+  "gold": "3",
+  "pred": "0",
+  "neighbour": "covidurukingo rwayo rwatangiye gukorerwa igeragezwa bantu igerageza mbere bantu ry’urukingo kurinda abantu kwandura coronavirus ryakozwe mbere leta zunze ubumwe amerika amakuru dukesha bbc aravuga abarwayi bane batewe inshinge z’uru rukingo kigo cy’ubushakashatsi kaiser permanente kiri i seattle let",
+  "ncd": 0.8379685878753662
+ },
+ {
+  "text": "mont kigali urutare semafigi rugiye guturitswa amasosiyete npdcotraco china road amaze igihe kubaka umuhanda nyamirambo- karama uzahuza bice giti cy’ inyoni rwego kurushaho kwihutisha imirimo yiyemeje kumena urutare semafigi rwatumye imirimo y’umuhanda isa nk’ikomwa nkokora nyuma kumenyeshwa uru rut",
+  "gold": "5",
+  "pred": "0",
+  "neighbour": "umuntu tuzafata kwiba insinga z’amashanyarazi tuzamureka azimanure ariko tuzamusamira hasi- gen mubarak umuyobozi w’ingabo ntara y’iburasirazuba n’umujyi kigali gen maj mubarak muganga avuga ingabo ziteguye guhangana n’abaturage bagira uruhare kwangiza ibikorwa remezo by’umwihariko abiba insinga z’a",
+  "ncd": 0.8550724387168884
+ },
+ {
+  "text": "yategetswe n’urukiko guhembera umugore imirimo rugo yakoze urukiko gihugu argentine rwakatiye umugabo igihano guha umugore asaga miliyoni z’amanyarwanda nk’igihembo cy’imirimo rugo yakoze ni umwanzuro wafashwe n’urukiko mbere mugabo yakatiwe igihano guha umugore w’imyaka mafaranga nk’umushahara w’ig",
+  "gold": "3",
+  "pred": "1",
+  "neighbour": "icyamamare mayweather floyd yahagaritse umukino w’iteramakofe umukinnyi w’iteramakofe floyd mayweather yatangaje ashobora kutazagaruka kibuga mukino w’iteramakofe ariko yongeraho ashobora kugaruka bibaye ngombwauyu musore w’imyaka y’amavuko uvuga ashobora guhagarika umukino w’iteramakofe yavuze yish",
+  "ncd": 0.8200836777687073
+ },
+ {
+  "text": "equateur yatangaje impamvu yatanze julian assange washinze wikileaks agatabwa yombi mu bwongereza polisi yataye yombi julian assange washinze wikileaks itangazo ryayo rivuga assange yafatiwe ambasade equateur y’i londres isobanura yinjiyemo itumiwe n’iyi ambasade guverinoma equateur imaze kwambura a",
+  "gold": "6",
+  "pred": "0",
+  "neighbour": "icc yafunguye iperereza byaha ingabo amerika zakoreye afghanistan umushinjacyaha mukuru w’uru rukiko fatou bensouda yagaragaje hazakorwa iperereza byaha byose byakorewe gihugu icyemezo cyenyegeje umuriro hagati y’uru rukiko rukorera buholandi leta amerika hashize imyaka ibiro by’umushinjacyaha mukur",
+  "ncd": 0.8700078129768372
+ },
+ {
+  "text": "diamond ategerejwe i kigali kwezi gutaha umuhanzi w’ icyamamare afurika diamond platnumz n’ ahandi isi yatangaje kwezi gutaha kanama azataramira abanyarwanda umuhanzi w’ icyamamare afurika diamond platnumz n’ ahandi isi yatangaje kwezi gutaha kanama azataramira abanyarwanda nk’ bigaragara rutonde rw",
+  "gold": "4",
+  "pred": "7",
+  "neighbour": "imikorere y’amahoteli rwanda ntiri rwego mpuzamahanga mu itangazo yashyize ahagaragara cyumweru gishize rdb ivuga amahoteli abiri gusa serena hotels gorillas group mahoteli rwanda ariyo yujuje ibisabwa aka karere eric musanganya ukuriye amashyirahamwe y’amahoteli rwanda yatangarije ikinyamakuru the ",
+  "ncd": 0.7876712083816528
+ },
+ {
+  "text": "ubushomeri buravuza ubuhuha rubyiruko rw’u rwanda leta y’u rwanda iravuga myaka irindwi imbere izateza imbere urwego rw’uburezi mugambi kugira ubukungu bw’igihugu bushingiye bumenyi icyakora imibare y’abarangiza mashuli yisumbuye amakuru kaminuza ntibabone gukora ikomeje kwiyongera minisitiri w’inte",
+  "gold": "1",
+  "pred": "0",
+  "neighbour": "u rwanda bihugu bitanu afurika byazamutse bukungu myaka ishize minisiteri y’imari n’igenamigambi yagaragaje u rwanda rwaje bihugu bitanu afurika byazamutse myaka ishize y’icyerecyezo iterambere ry’ibikorwaremezo ubuhahirane n’amahanga ubuhinzi kubungabunga ibidukikije ndetse n’uburinganire mu nama y",
+  "ncd": 0.8491048812866211
+ },
+ {
+  "text": "ingingo ivuga umunyamaguru atagira ikosa ikwiye kwiganwa ubushoshozi ibangamira abashoferi umuyobozi polisi y’ u rwanda ntara y’ amajyepfo commissioner of police rutikanga rogers yavuze atekereza ingingo ivuga umunyamaguru atagira ikosa irimo kwigwaho kugira izakorwe buryo butabangamira abakoresha u",
+  "gold": "0",
+  "pred": "3",
+  "neighbour": "kigali polisi yongeye kwihaniza abashoferi k’uburyo bukomeye polisi y’u rwanda iraburira bamwe batwara ibinyabiziga bagakora amakosa muhanda bashaka kunyuranaho bigatuma habaho kubangamirana ndetse bikaba byateza umutekano mucye w’urujya n’uruza rw’ibinyabiziga biri muhanda umuyobozi w’ishami polisi",
+  "ncd": 0.8776738047599792
+ },
+ {
+  "text": "abapasiteri bageze zabukuru bishimiye bagiye gusaza neza itorero mthodiste libre rwanda ryagabiye inka abapasiteri bageze zabukuru rwego kubafasha kugira amasaziro meza ubuyobozi bwi torero bwemeza ubwa mbere gahunda nk’iyi ibaye myaka rimaze rigeze rwanda umwanzuro kugabira inka bapasiteri wafatiwe",
+  "gold": "10",
+  "pred": "12",
+  "neighbour": "abaminuje barasabwa kuyoboka amashuri y’imyuga umuyobozi wungirije w’ikigo cy’igihugu guteza imbere ubumenyingiro wda arasaba abiga amashuri atandukanye ndetse n’abaminuje kuyoboka amashuri y’imyuga nsengiyumva irene yasabaga n’abaminuje bagana amashuri yigisha imyuga bagahabwa ubumenyi ifotonshimiy",
+  "ncd": 0.864130437374115
+ },
+ {
+  "text": "sinzatuza umugabo wanjye adahawe ubutabera - umupfakazi hategikimana wishwe cmi uganda hategekimana yagejejwe rwanda nyuma y’amezi atatu bagenzi batotezwa cmi murwa mukuru kampala bashinjwa kuba intasi z’u rwanda bahageze kamena bacishijwe mupaka kagitumba nyirahabimana w’imyaka yavuze umugabo wapfu",
+  "gold": "0",
+  "pred": "10",
+  "neighbour": "ubuhamya rev uwimana wemeye gukora ubukwe n’umugeni bakuyemo umurerantanga - video rev uwimana jean pierre umuvugabutumwa ariko kazi gasanzwe akaba umwarimu kaminuza y’u rwanda yigisha ishuri ry’itangazamakuru n’itumanaho ni umugabo wubatse ufite umugore n’abana batatu ariko inzira kubona urubyaro u",
+  "ncd": 0.8685363531112671
+ },
+ {
+  "text": "uburengerazuba ibinyabiziga bigiye gusuzumwa imiterere yabyo hifashishiwe imodoka abatunze ibinyabiziga karere rubavu n’abatuye nkengero zako ibinyabiziga byabo bizasuzumwa imiterere yabyo minsi mike imbere kuko imodoka polisi y’u rwanda isanzwe irimo ibikoresho byose bipima imiterere y’ibinyabiziga",
+  "gold": "2",
+  "pred": "6",
+  "neighbour": "polisi yatangiye gukoresha ikoranabuhanga basaba gukoresha ’contrle technique’ y’ibinyabiziga nyuma y’uko mpera z’umwaka ushize polisi y’igihugu ishami rishinzwe umutekano muhanda ryatangiye gukoresha ikoranabuhanga mirimo gucunga umutekano muhanda hatangijwe n’ ikoranabuhanga kubasaba gusuzumirwa i",
+  "ncd": 0.8367546200752258
+ },
+ {
+  "text": "mu bitaro kibuye icyumba cy’imbagwa kizamo imyanda ivuye musarani umuyobozi w’ibitaro bikuru kibuye dr ayingeneye violette atangaza bitaro bitagitanga serivisi kubaga byihuse bitewe n’inyubako y’ahatangirwa serivisi yubatse nabi buryo izamo imyanda ivuye musarani dr ayingeneye avuga rwiyemezamirimo ",
+  "gold": "3",
+  "pred": "12",
+  "neighbour": "ababyeyi bafite abana biga i goma ntibakozwa kubashyira mashuri rwanda abanyeshuri amagana mashuri y’incuke kugeza kaminuza bambuka umupaka buri munsi bava gisenyi rwanda bajya kwiga hakurya i goma ntibabyemerewe umwaka w’amashuri mushya dr congo watangira mbere tariki nzeri impamvu banyeshuri babuz",
+  "ncd": 0.8016014099121094
+ },
+ {
+  "text": "impamvu y’ihamagazwa ambasaderi afurika y’epfo rwanda iranugwanugwa guverinoma afurika y’epfo yahamagaje ambasaderi wayo rwanda george nkosinati twala mpamvu zitaramenyekanagusa biracyekwa ibyihishe inyuma y’iri hamagazwa igitaraganya byaba byaratewe n’itukwa minisitiri w’ububanyi n’amahanga w’iki g",
+  "gold": "3",
+  "pred": "0",
+  "neighbour": "afurika y’epfo yagennye ambasaderi mushya wayo rwanda mu ukuboza nibwo uwari ambasaderi afurika y’epfo rwanda george nkosinati twala yahamagajwe i pretoria nyuma y’uko manda yararangiye icyo gihe hari hashize iminsi hari umwuka mubi wakuruwe n’ibitutsi bivugwa byatutswe uwari minisitiri w’ububanyi n",
+  "ncd": 0.7651245594024658
+ },
+ {
+  "text": "habonetse umuriro ndege air zimbabwe ikompanyi y’indege gihugu zimbabwe air zimbabwe yamenyesheje moteri y’indege yayo itwara abantu yagize ikibazo ivuye kibuga cy’indege mpuzamahanga oliver reginald tambo johannesburg gihugu afurika y’epfo cyumweru tariki mata bituma umuriro waka gice cy’inyuma tai",
+  "gold": "6",
+  "pred": "11",
+  "neighbour": "afurika y’epfo inzuki zateye indege bikerereza ingendo hitabazwa abavumvu zimwe ngendo z’indege afurika y’epfo zakererewe kubera inzuki nyinshi zavuye mizinga yazo buryo butunguranye zikaza moteri y’imwe ndege kompanyi mango airlines afurika y’epfo ibi byabereye kibuga cy’indege mpuzamahanga king sh",
+  "ncd": 0.783725917339325
+ },
+ {
+  "text": "menya igisobanuro cy’ivara madamu jeannette kagame yambaye i vatican ubwo perezida repubulika y’u rwanda paul kagame yajyaga i vatican kumwe madamu jeannette kagame minisitiri w’ububanyi n’amahanga n’ubutwererane madamu louise mushikiwabo abantu benshi bibajije mwambaro madamu jeannette kagame madam",
+  "gold": "10",
+  "pred": "3",
+  "neighbour": "kuri wowe wampaye urukundo ruhamye kandi rudafite inyungu rushingiyeho isabukuru nziza papaangel kagame aya amagambo yagaragaye rukuta rwe twitter angel kagame yifuriza umubyeyi umubyara akaba perezida repubulika y’u rwanda ubusanzwe perezida kagame yavutse italiki afite abana bane barimo abahungu b",
+  "ncd": 0.8790186047554016
+ },
+ {
+  "text": "u rwanda rugiye kwakira imikino ihuza ingabo muryango w’ibihugu by’afurika u rwanda rugiye kwakira imikino ihuza ingabo muryango w’ibihugu by’afurika y’iburasirazuba eac iyi mikino n’iserukiramuco bizaba bibaye nshuro bizatangira itariki kanama stade amahoro stade kigali i nyamirambo n’iya kicukiro ",
+  "gold": "1",
+  "pred": "0",
+  "neighbour": "umuvugizi w’ingabo z’u rwanda yashimiye abakinnyi bagize team rwanda umuvugizi w’igisirikare cy’u rwanda brig gen joseph nzabamwita abinyujije rukuta rwe twitter yatangaje u rwanda rukomeje guheshwa ishema n’umunyarwanda ukomeje kuza imbere tour du rwanda brig genaral nsengimana jean bosco niwe muny",
+  "ncd": 0.8032786846160889
+ },
+ {
+  "text": "icyo impuguke zivuga mahanga akomeje kwiyegereza afurika iyi nama y’iminsi ibiri yabaye nyuma y’izindi zimaze kumenyererwa zirimo izihuza umugabane afurika n’ubumwe bw’i burayi afurika n’u bufaransa afurika n’u buhinde afurika n’u bushinwa afurika n’ibindi bihugu by’ibihangange leta zunze ubumwe ame",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "perezida kagame yitabiriye inama ishoramari hagati afurika n’u bwongereza perezida kagame yitabiriye inama yiga ishoramari afurika n’u bwongereza by’umwihariko aza kuba kiganiro kivuga bucuruzi n’ishoramari aza guhuriramo n’abandi bakuru b’ibihugu batandukanye afurika ibihugu afurika nibyo byitabiri",
+  "ncd": 0.8517715334892273
+ },
+ {
+  "text": "kigali ikamyo itwara peterole yaturitse bayisudira ihitaha babiri abantu babiri bahitanywe n’ iturika ry’ ikamyo itwara amavuta yasudirwaga n’ abakanishi mujyi kigali karere kicukiro i gikondo ababibonye bavuga mpanuka yatewe n’ uburangare bw’ abakanishi abantu babiri bahitanywe n’ iturika ry’ ikamy",
+  "gold": "0",
+  "pred": "3",
+  "neighbour": "goma bwa mbere hagaragaye umurwayi ebola mu burasirazuba repubulika iharanira demokarasi congo i goma umujyi uhana imbibi n’akarere rubavu ntara y’uburengerazuba bw’u rwanda hagaragaye umuntu udwaye ebola ni amakuru yahamijwe minisiteri y’ubuzima gihugu ndetse oms nyuma y’isuzuma laboratwari uyu mur",
+  "ncd": 0.8024439811706543
+ },
+ {
+  "text": "aline gahongayire yakujemo bruce melody ikote yambaye amwishyura million n’ibihumbi umuririmbyi uririmba indirimbo kuramya guhimbaza imana aline gahongayire yasabye bluce melody gukuramo ikote yambaye ahita arigura by’idorari arenga millioni n’ibihumbi maganane uyashyize manyarwanda ibi byabaye ijor",
+  "gold": "9",
+  "pred": "10",
+  "neighbour": "ububiligipatient bizimana yakoze igitaramo arishimirwa cyane -amafoto ku mugoroba gatandatu tariki ukwakira patient bizimana yakoreye igitaramo gikomeye bubiligi arishimirwa cyane mu gitondo kane tariki ukwakira nibwo umuhanzi ndirimbo kuramya guhimbaza imana patient bizimana yerekeje bubiligi yagiy",
+  "ncd": 0.8101266026496887
+ },
+ {
+  "text": "bugesera abagore barashinja umugabo kubafata ngufu arihimura kuwamuteye sida bamwe bagore murenge rilima karere bugesera y’ ishyamba gako baravuga hari umugabo witwa eric uba shyamba ufata abagore ngufu bamwe bagore murenge rilima karere bugesera y’ ishyamba gako baravuga hari umugabo witwa eric uba",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "kigali abanywi b’inzoga ziva bitoki barasaba rbs kuzigenzura cyane nyuma y’uko inzoga zari zizwi izina ry’urwagwa zazanwaga i kigali majerikane bikavugwa kenshi ziba zitujuje ubuziranenge hafashwe gahunda gutangiza inganda ziciriritse zenga nzoga zikazitanga macupa kandi bahawe icyemezo cy’ikigo cy’",
+  "ncd": 0.8683127760887146
+ },
+ {
+  "text": "byari agahinda n’amarira muhango gushyingura umunyamakuru mahoro giovanni inkuru n’amafoto umunyamakuru jean de dieu mahoro ukunzwe cyane radio salus maradio yareze abanyamakuru benshi rwanda hanze yarwo nyuma kwitaba imana ijoro ryo kuwa mutarama umuhango mushyingura wabaye kumunsi w’ejo nibwo yash",
+  "gold": "3",
+  "pred": "10",
+  "neighbour": "pasiteri bizimungu umwe bitabiriye umuhango gushyingura mgr ngirabanyiginya musenyeri alexis habiyambere wayoboye umuhango gushyingura mgr ngirabanyiginya dominic umusenyeri w’icyubahiro diyosezi nyundo witabye imana ijoro rishyira kuwa nzeli mgr ngirabanyiginya wazize uburwayi diyabeti buri kane ya",
+  "ncd": 0.8399503827095032
+ },
+ {
+  "text": "haranira gukora neza kandi ntuzatinye gukora ikiri - perezida kagame perezida paul kagame aravuga buri muntu akwiye kwishaka ahari isi agaharanira gukora neza ndetse ntanatinye gukora yumva kiri kuriumukuru w’igihugu kandi avuga nubwo abantu bagomba kugira ibitekerezo bitandukanye ariko bidakwiye ku",
+  "gold": "0",
+  "pred": "3",
+  "neighbour": "perezida kagame yasobanuye inzira eshatu u rwanda rwakoresheje kugira ubuvuzi bugere perezida paul kagame yabwiye abayobozi batandukanye bakwiye guhagurukira ikibazo cy’abaturage bataragerwaho n’ubuvuzi anabagaragariza abanyarwanda barenga bakoresha ubwisungane kwivuza butandukanye ibi perezida kaga",
+  "ncd": 0.823645293712616
+ },
+ {
+  "text": "umunyamakuru bbc yirukanwe nyuma kugereranya umwana prince harry meghan ’n’inguge’ umunyamakuru bbc radio live witwa danny baker yirukanwe kazi kubera ubutumwa post yanyujije konti twitter avuga mwana uheruka kwibarukwa n’igikomangoma harry meghan markle ku mbere w’iki cyumweru tariki gicurasi murya",
+  "gold": "4",
+  "pred": "1",
+  "neighbour": "bbc yirukanye umwe basesenguzi bayo wibasiye abakinnyi b’abirabura craig ramage wakiniye derby hagati y’imyaka kiganiro sportscene bbc gatatu yavugaga amagambo atarishimiwe n’abatari bake ramage yanenze myugariro w’imyaka derby max lowe wavuze yatunguwe n’ibyavuzwe n’uyu mugabo nyuma y’umukino ikipe",
+  "ncd": 0.8523111343383789
+ },
+ {
+  "text": "umucyecuru yakoresheje amayeri ahambaye arokora abatutsi umukecuru w’umuyislamukazi witwa zura karuhimbi w’imyaka isaga avuga yarokoye abatutsi basaga bahigwaga jenoside yakorewe abatutsi babaga bahigwa n’interahamwe n’abandi bagamije kubica yakoresheje amayeri kwiyita umurozi ruharwa abasha kugera ",
+  "gold": "5",
+  "pred": "3",
+  "neighbour": "wa mukecuru warokoye abatutsi jenoside akoresheje amayeri adasanzwe yitabye imana umucyecuru w’imyaka witwa karuhimbi zula wamenyekanye kubera kwitangira kurokora abatutsi jenoside akoresheje amayeri adasanzwe kwiyita umurozi ruharwa abasha kugera ntego yitabye imana azize uburwayi ku mugoroba tarik",
+  "ncd": 0.6350194811820984
+ },
+ {
+  "text": "hamenyekanye abagambaniye gen mudacumura uherutse kwicwa raporo yigenga y’akanama k’indwanyi mutwe fdlr igaragaza gen mudacumura sylvestre uherutse kwica n’abasirikare kabuhariwe b’igisirikare repubulika iharanira demokarasi congo hibou special force yagambaniwe bagenzi abashyirwa majwi gen bgde bus",
+  "gold": "0",
+  "pred": "5",
+  "neighbour": "abantu bashakishwa cyane ictr usa bashinjwa kugira uruhare jenoside yakorewe abatutsi leta zunze ubumwe z’amerika kandi zanijeje uzatanga amakuru izina rye rizagirwa ibanga ndetse akazacungirwa umutekano w’aho azaba isi n’aho azaba ashaka kujya uza mwanya mbere barashakishwa umunyemari kabuga felici",
+  "ncd": 0.8870139122009277
+ },
+ {
+  "text": "nigeriaabafite ibishushanyo mubiri drede mutwe gutabwa yombi bwinshi abasore bafite ibisage dredlocks ’tatouage’ mubiri gufungwa nigeria polisi ibashinja bagaragara nk’abajura cyangwa abatekamitwe amakuru avuga abenshi gufatwa usanga urubyiruko rw’abasore bikorwa by’ubuhanzi kubera ibura ry’imirimo ",
+  "gold": "4",
+  "pred": "13",
+  "neighbour": "ibintu bizakwereka umukobwa mukundana wowe akunda wenyine atajya akubangikanya n’abandi muri bihe turimo usanga urukundo rw’ubu umubare w’abaca inyuma abakunzi ugenda wiyongera buryo benshi basigaye bemeza urukundo rw’ubu rwabaye akavuyo cyangwa se rwakonje kuko muntu ugikunda ariwe wenyine akunda c",
+  "ncd": 0.8810949325561523
+ },
+ {
+  "text": "covid sosiyete y’itumanaho airtel rwanda yageneye leta y’u rwanda inkunga y’amafaranga minisiteri y’ubuzima yashimiye sosiyete y’itumanaho airtel rwanda yageneye leta inkunga y’amafaranga y’u rwanda miriyoni n’ibihumbi kuyishyigikira bikorwa guhangana n’icyorezo koronavirusi covid- cyugarije isi n’u",
+  "gold": "3",
+  "pred": "0",
+  "neighbour": "perezida kagame yashimiye abayobozi bakomeye isi perezida repubulika y’u rwanda paul kagame yashimiye abayobozi bakomeye isi bagiranye ikiganiro k’ingirakamaro terefoni cyagarutse buryo bwihuse guhangana n’icyorezo koronavirusi covid- abayobozi baganiriye perezida kagame barimo perezida w’u bufarans",
+  "ncd": 0.75
+ },
+ {
+  "text": "nyabihubashinja rwiyemezamirimo gusondeka umuhanda musanze-vunga abakoresha umuhanda musanze -vunga barishimira cyane nyuma y’uko muhanda wubatswe kuwugendamo byoroshye bigatuma urugendo n’amafaranga bishyuraga imodoka nabyo bigabanyuka ariko bafite impungenge ushobora kwangirika vuba kuko babona wa",
+  "gold": "2",
+  "pred": "3",
+  "neighbour": "gitifu ushinjwa gusambanira kagari yaba agiye gukurikiranwa nyuma y’aho kwezi gushize bamwe baturage murenge nyundo karere rubavu ntara y’uburengerazuba baboneye umunyamabanga nshingwabikrwa w’akagari kabo asambanira biro akoreramo ubuyobozi bw’akarere buravuga bwashyizeho akanama k’imyitwarire kagi",
+  "ncd": 0.8379351496696472
+ }
+]

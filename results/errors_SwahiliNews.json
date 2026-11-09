@@ -1,0 +1,282 @@
+[
+ {
+  "text": " Na Veronica Romwald, Dar es Salaam Wabunge 47 na viongozi wa dini 14, wametajwa kuwa miongoni mwa wanaume waliotelekeza wanawake na watoto. Kwa mujibu wa Mkuu wa Mkoa wa Dar es Salaam, Paul Makonda wanawake 480 waliofika katika ofisi yake jana, kati yao 47 wamesema wametelekezwa na wabunge huku 14 ",
+  "gold": "1",
+  "pred": "5",
+  "neighbour": " Na Veronica Romwald, Dar es Salaam Hatimaye Tanzania leo imeandika historia katika sekta afya baada ya kuzindua rasmi chanjo ya kuwakinga wasichana dhidi ya saratani ya shingo ya kizazi (HPV). Makamu wa Rais, Samia Suluhu Hassan amezindua chanjo hiyo leo katika viwanja vya Mbagala zakheim, Temeke, ",
+  "ncd": 0.7656903862953186
+ },
+ {
+  "text": "WASHINGTON, Marekani MWANAMKE mmoja ameangua bata watatu na kuwapa majina ya Beep, Peep na Meep kwa kutumia mayai aliyonunua kutoka duka moja la kufanya manunuzi. Charli Lello mwenye umri wa miaka 29 kutoka Hertfordshire, aliweka mayai hayo kwenye kiangulio ili kupitisha muda wakati ambapo walihitaj",
+  "gold": "3",
+  "pred": "2",
+  "neighbour": "LAS VEGAS, MAREKANI   BINGWA wa mchezo wa judo na ngumi nchini Marekani kwa upande wa wanawake, Ronda Rousey, amedai kuwa siku za hivi karibuni anaweza kuweka wazi kama ataendelea kuutumikia mchezo huo au kustaafu. Mwanamichezo huyo mwenye umri wa miaka 29, alichezea kichapo na mpinzani wake, Amanda",
+  "ncd": 0.8420398235321045
+ },
+ {
+  "text": " SERIKALI kupitia Wizara ya Madini imepanga kuona miradi ya madini ya graphite (kinywe) yaliyogunduliwa wilaya za Ruangwa mkoani Lindi na Ulanga mkoani Morogoro, yanaanza kuchimbwa baada ya kukamilishwa kwa taratibu za kisheria.Naibu Waziri wa Madini, Stanslaus Nyongo amebainisha yao hivi karibuni w",
+  "gold": "0",
+  "pred": "1",
+  "neighbour": " SERIKALI ya Mapinduzi ya Zanzibar (SMZ) imejikita katika uwekezaji wa uvuvi wa bahari kuu pamoja na usarifu wa mazao ya baharini, ili yalete tija katika mabadiliko ya uchumi wa bahari.Naibu Waziri wa Biashara na Viwanda, Hassan Khamis Hafidh amesema hayo wakati akijibu swali la Mwakilishi wa Jimbo ",
+  "ncd": 0.8124191164970398
+ },
+ {
+  "text": " Mgahawa huo ulizinduliwa juzi na Balozi wa Tanzania nchini Sweden, Dora Msechu.Balozi Msechu alimpongeza Issa Kapande na Nimco Kapande kwa kufanikisha kuwapo kwa mgahawa huo ambao umeweka rekodi kuwa mgahawa mkubwa kuliko yote ya Kiafrika katika nchi za Ulaya.Aidha, alimshukuru Torvald Brahm mwenye",
+  "gold": "0",
+  "pred": "1",
+  "neighbour": " KAMATI ya Kudumu ya Fedha ya Bunge la Afrika Mashariki (EALA), imelieleza Bunge hilo kuwa, Sh bilioni 1.6 zilizofujwa kwenye mradi ya ujenzi wa kituo kikuu cha uokozi katika Ziwa Victoria zimerejeshwa.Ujenzi wa mradi huo mkubwa unaenda pamoja na ujenzi wa vituo vidogo 40 vya uokozi kuzunguka Ziwa V",
+  "ncd": 0.8500000238418579
+ },
+ {
+  "text": " WAPINZANI wa Simba kwenye robo fainali za michuano ya Ligi ya Mabingwa wanatarajiwa kujulikana leo wakati Shirikisho la Soka Afrika (Caf) litakapochezesha droo ya michuano hiyo pamoja na ile ya Kombe la Shirikisho.Simba ilifuzu hatua hiyo ikiwa ya pili kundi D kwa kufikisha pointi 9 nyuma ya Al Ahl",
+  "gold": "2",
+  "pred": "1",
+  "neighbour": " KOCHA Mkuu wa Simba, Patrick Aussems amesema ni bahati mbaya kumkosa mlinzi wake, Erasto Nyoni kwenye mchezo wa Ligi ya Mabingwa wa Afrika dhidi ya JS Souara unaotarajiwa kuchezwa keshokutwa Uwanja wa Taifa, Dar es Salaam.Akizungumza baada ya kurejea Dar es Salaam jana, Aussems alisema ni pigo kumk",
+  "ncd": 0.7708803415298462
+ },
+ {
+  "text": "VERONICA ROMWALD – DAR ES SALAAM WANAWAKE\nwanaotumia manukato kujifukiza ukeni na wale wanaotumia sabuni mbalimbali\nkujisafisha, wametahadharishwa kwamba wanajiweka kwenye hatari ya kupata\nmagonjwa mbalimbali ikiwamo saratani. Hayo\nyalielezwa juzi jijini hapa na Daktari Bingwa wa Magonjwa ya Saratan",
+  "gold": "5",
+  "pred": "1",
+  "neighbour": " Na VERONICA ROMWALD –DAR ES SALAAM SERIKALI imewatoa hofu wanawake nchini juu ya uvumi wa kuwapo kwa sidiria zinazodaiwa kupandikizwa majimaji yanayosababisha saratani ya matiti. Kauli hiyo ilitolewa jana na Kaimu Mratibu Programu ya Saratani ya Via vya Uzazi wa Wizara ya Afya, Maendeleo ya Jamii, ",
+  "ncd": 0.7984234094619751
+ },
+ {
+  "text": " SERIKALI imeridhishwa na uwezo wa viwanda vya ndani katika kuongeza thamani ya korosho ya Tanzania, huku mpaka sasa tani 40,050 zimeshapakiwa kwenye meli tayari kwenda nje ya nchi kupitia Bandari ya Mtwara. Aidha, hadi kufikia Septemba 23, mwaka huu, tani 607.75 za korosho zilibanguliwa na viwanda ",
+  "gold": "1",
+  "pred": "0",
+  "neighbour": " SERIKALI leo inasaini mikataba na wamiliki wa viwanda vya ubanguaji wa korosho waliojitokeza kwa ajili ya kubangua korosho msimu wa mwaka 2018/19 zilizonunuliwa kwa bei ya Sh 3,300 kwa kilo.Waziri wa Kilimo, Japhet Hasunga alisema hayo wakati wa mkutano wake na waandishi wa habari mjini hapa.Alisem",
+  "ncd": 0.8436819314956665
+ },
+ {
+  "text": " RAIS wa zamani wa Misri, Mohammed Morsi amezikwa jana asubuhi katika jiji la Cairo, maziko yaliyohudhuriwa na familia yake na ndugu wa karibu pekee.Kifo cha Morsi kimetokana na ugonjwa wa kiharusi ambapo alizidiwa akiwa mahakamani kabla ya kukimbizwa hospitalini ambapo aliaga dunia juzi. Morsi (67)",
+  "gold": "1",
+  "pred": "3",
+  "neighbour": " BANGUI, CAR ALIYEKUWA Rais wa Jamhuri ya Afrika ya Kati (CAR) Francois Bozize ametangaza kuwa atagombea urais katika uchaguzi uliopangwa kufanyika mwezi Desemba maka huu, licha ya kuwekewa vikwazo na Umoja wa Mataifa (UN). Pamoja na vikwazo hivyo vya UN, Bozize pia ametolewa hati ya kukamatwa dhidi",
+  "ncd": 0.8392693996429443
+ },
+ {
+  "text": "KISMAYO-SOMALIA WATANZANIA watatu, mgombea wa urais katika uchaguzi ujao\nkatika jimbo la Jubaland na mwandishi wa habari ni miongoni mwa watu 26\nwaliouawa katika shambulio linalodaiwa kutekelezwa na kikundi cha kigaidi cha\nAl-shabab  katika hoteli maarufu ya\nAsasey iliyopo Kismayo nchini Somalia usi",
+  "gold": "3",
+  "pred": "1",
+  "neighbour": " WATU 26 wakiwemo Watanzania watatu wamekufa katika shambulio la bomu lililofanyika katika hoteli mjini Kismayo, Somalia.Mwandishi wa habari maarufu mwenye uraia wa Canada na Somalia, Hodan Nalayeh na mumewe, Farid, ni miongoni mwa waliokufa katika shambulio hilo linalosadikiwa kufanywa na kundi la ",
+  "ncd": 0.7642450332641602
+ },
+ {
+  "text": "AVELINE  KITOMARY NA BRIGITHA MASAKI, DAR ES SALAAM MKURUGENZI\nMtendaji wa Taasisi ya Saratani ya Ocean Road, Dk. Julius Mwaiselage amezindua\nkitabu kipya  ambacho pamoja na mambo\nmengine kimeainisha vyanzo vikuu vinne vya ugonjwa wa Saratani. Mwandishi\nwa kitabu hicho ambaye ni Daktari Bingwa wa Sa",
+  "gold": "1",
+  "pred": "5",
+  "neighbour": "AVELINE KITOMARY-DAR ES SALAAM MKURUGENZI wa Huduma za Kinga ya Saratani kutoka Taasisi ya Saratani ya Ocean Road, Dk. Crispin Kahesa, amesema msongo wa mawazo unachangia ongezeko la saratani ya matiti kwa wanawake kutokana na kuvuruga homoni za ukuaji zijulikanazo kwa kitaalamu kama Oestrogen.  Aki",
+  "ncd": 0.8579545617103577
+ },
+ {
+  "text": " MEI 10, 2016 ,Tanzania iliweka historia kwa kuanza kutumia usaﬁ ri wa mabasi yaendayo haraka katika jiji la Dar es Salaam. Kampuni ya UDART ndiyo inayotoa huduma katika mradi huo wa mabasi yaendayo haraka maarufu mabasi ya mwendo kasi. Usafiri huu umekuwa ukikabiliwa na changamoto mbalimbali, ikiwa",
+  "gold": "0",
+  "pred": "1",
+  "neighbour": " BAADA ya mafanikio makubwa katika awamu ya kwanza ya mradi wa mabasi yaendayo haraka katika Jiji la Dar es Salaam ambao ni wa kwanza na wa kihistoria katika nchi za Jumuiya ya Afrika Mashariki (EAC), awamu ya pili iko mbioni kuanza.Uhakika wa kuanza kwa awamu ya pili umekuja baada ya serikali kuanz",
+  "ncd": 0.5408719182014465
+ },
+ {
+  "text": "Derick Milton, Simiyu Siku moja baada ya Waziri wa Afya, Maendeleo ya Jamii, Jinsia, Wazee na Watoto, Ummy Mwalimu kutangaza kuwepo kwa mgonjwa mmoja mwenye maambukizi ya virusi vya Corona (COVD 19) nchini, uongozi wa Mkoa wa Simiyu umesitisha kwa muda usiojulikana kambi ya kitaaluma kwa wanafunzi w",
+  "gold": "5",
+  "pred": "1",
+  "neighbour": "Derick Milton, Simiyu Kampeni inayolenga kuhamasisha jamii kuwa na vyoo bora inayojulikana kama ‘Nyumba ni Choo’ imezinduliwa rasmi mkoani hapa huku ikidaiwa kaya 6,459 sawa na asilimia tatu, hazina vyoo.Kampeni hiyo itaendeshwa kwa siku 20 ikiongozwa na msanii maarufu nchini, Mrisho Mpoto. Kabla ya",
+  "ncd": 0.7796178460121155
+ },
+ {
+  "text": " MAMLAKA ya Hifadhi za Taifa Tanzania (TANAPA) imewaomba waandishi kuandika habari za kuelimisha na kuwahimiza wananchi kufanya utalii wa ndani kutokana na idadi ndogo ya watalii hao ukilinganisha makundi mengine.Akizungumza kwenye semina ya waandishi wa habari jijini hapa, Mhifadhi Mkuu wa Tanapa, ",
+  "gold": "1",
+  "pred": "0",
+  "neighbour": " Kaimu Mkurugenzi Mwendeshaji wa TTB, Devotha Mdachi aliyasema hayo mwishoni mwa wiki Dar es Salaam alipokuwa akitoa tathimini ya Maonesho ya Utalii ya Kimataifa yaliyomalizika Dar es Salaam, juzi.Mdachi alisema pamoja na mikakati mingine wamedhamiria kufungua matawi ya ofisi za vivutio vya utalii k",
+  "ncd": 0.7898550629615784
+ },
+ {
+  "text": " Wanaume wengi huingiwa na woga ikifikia wakati wa kuomba namba kutoka kwa mwanamke. Haufai kuogopa na jambo hili. Mwanzo nataka nikuonyeshe njia za kumwomba mwanamke namba na pia nikuonyeshe umuhimu wa mbinu moja muhimu ya hizi. Mbinu za kumwomba mwanamke namba ya simu. Hizi ni hatua tano ambazo zi",
+  "gold": "4",
+  "pred": "2",
+  "neighbour": " Makonda aliyasema hayo jana wakati akizindua mpango huo kwa kuunda kamati maalumu yenye wajumbe kutoka Ofisi ya Mkuu wa Wilaya pamoja na baadhi ya wasanii wenye uzoefu zaidi katika nyanja hizo.Kamati hiyo inayoundwa na Mwenyekiti Jumanne Mrimmy ambaye ni Ofisa Utamaduni Manispaa ya Kinondoni, Sebas",
+  "ncd": 0.8797409534454346
+ },
+ {
+  "text": "Na Mwandishi wetu, Kilimanjaro. KAIMU Mkurugenzi Mtendaji wa Hospitali ya Rufaa ya Taifa ya Magonjwa Ambukizi (Kibong’oto), DK Riziki Kisongo, amesema tafiti za magonjwa ambuzuki kutoka hospitalini hapo, zimesaidia Shirika la Afya Duniani (W.H.O) kubadilisha miongozo ya kutibu na kugundua vimelea vy",
+  "gold": "1",
+  "pred": "5",
+  "neighbour": "Mwandishi wetu, Mwanza WAZIRI wa Afya, Maendeleo ya Jamii, Jinsia, Wazee na Watoto, Ummy Mwalimu, amesema Tanzania imefanikiwa kupunguza vifo vitokanavyo na ugonjwa wa TB lakini bado kwa siku watu 60 hufariki dunia nchini kutokana na ugonjwa huo. Alisema hayo wakati wa kusaini tamko la maazimio ya v",
+  "ncd": 0.806654691696167
+ },
+ {
+  "text": "London, England STAA wa filamu nchini England, Linda Lusardi, amejianika kwenye mitandao ya kijamii siku moja mara baada ya kuthibitishwa kuwa amepona na virusi vya Corona. Mrembo huyo mwenye umri wa miaka 61, alitumia ukurasa wake wa Instagram na kuposti picha mbalimbali ambazo zilimuonesha akiwa h",
+  "gold": "4",
+  "pred": "3",
+  "neighbour": "MIAMI, MAREKANI  STAA wa filamu na muziki nchini Marekani, Miley Cyrus, ameshindwa kuzuia hisia zake baada ya Nguruwe wake ambaye anajulikana kw ajina la Pet Pig Pig. Mrembo huyo mwenye umri wa miaka 26, ametumia\nukurasa wake wa Instagram kumlilia Nguruwe huyo huku akiwaambia mashabiki\natakuwa na ki",
+  "ncd": 0.6634615659713745
+ },
+ {
+  "text": "   WAFUGAJI mkoani Geita  wamehimizwa kujitokeza  kupiga chapa mifugo yao kwa kuwa hatua hiyo inasaidia kudhibiti wizi wa mifugo na kuwafanya kuitambulika haraka, anaripoti Harrieth Mandari. Mkuu wa Wilaya ya Geita, Herman Kapufi alisema pamoja na idadi kubwa ya wafugaji kujitokeza, bado viongozi na",
+  "gold": "1",
+  "pred": "4",
+  "neighbour": "NA SHARIFA MMASI MWIGIZAJI mahiri wa filamu nchini, Halima Yahya ‘Davina’, amejitokeza na kuwataka mashabiki wake wamkosoe kila wanapoona anacheza tofauti na wanavyotaka katika filamu anazoigiza. “Mkinikosoa ndiyo nitajifunza kufanya vema zaidi hadi nitafikia kiwango cha kimataifa lakini mkiniacha h",
+  "ncd": 0.7994428873062134
+ },
+ {
+  "text": "\n\t \n \n\t \n \nNa Sussan Uhinga, TANGA \n \n\tSIKU za hivi karibuni, kuliibuka mjadala katika mitandao ya kijamii kuhusu ubora wa maji jijini Tanga.\n \n\tMjadala huo ulitokana na picha iliyokuwa ikizunguka ikionesha mto uliokuwa na maji yenye rangi ya kahawia, watu wakidai kuwa ndiyo yanayotumiwa na wakazi w",
+  "gold": "5",
+  "pred": "1",
+  "neighbour": "\n\t \n \n\t \n \nNa Bakari Kimwanga,\n \n\tMTO Nile ni miongoni mwa mito mikubwa iliyopo upande wa Mashariki wa Bara la Afrika na duniani kote ukiwa na urefu wa kilomita 6,695. Bonde la Mto Nile hukusanya maji kwa ujazo ambao ni asilimia 10 ya ujazo unaokusanywa na mabonde yote ya Afrika.\n \n\tKwa muonekano wa",
+  "ncd": 0.8793256282806396
+ },
+ {
+  "text": " Akizungumza wakati wa uzinduzi huo, Meneja Mawasiliano wa kampuni hiyo, Emma Oriyo alisema programu hiyo ya mafunzo ni ya miaka minne mfululizo na awamu ya kwanza inaanza mwezi huu na kukamilika Machi 3 mwaka ujao.Emma alisema programu imelenga kuwanufaisha wauzaji wadogo wa bidhaa zao nchi nzima a",
+  "gold": "0",
+  "pred": "1",
+  "neighbour": " CHUO Kikuu cha Rwanda kinatarajiwa kuanza kutoa programu ya shahada ya uzamili kwa lugha ya Kinyarwanda.Programu hiyo imeandaliwa kwa ushirikiano wa chuo kikuu hicho na cha Lugha na Utamaduni (RALC) na kutangazwa wakati wa maadhimisho ya siku ya kimataifa ya lugha. Mwenyekiti wa RALC, Cyprien Niyom",
+  "ncd": 0.779296875
+ },
+ {
+  "text": " NAIBU Waziri wa Maliasili na Utalii, Japhet Hasunga amesema utalii wa ndani utaimarika kwa kuanza kujenga misingi kwa wanafunzi waliopo shuleni hali itakayosaidia kuleta mapinduzi katika sekta ya utalii nchini.Amesema utalii unategemea zaidi watalii kutoka nje ya nchi ambao wakati mwingine hupungua",
+  "gold": "0",
+  "pred": "1",
+  "neighbour": " NAIBU Waziri wa Maliasili na Utalii, Japhet Hasunga ameanza ziara ya kimkakati ya kuhamasisha utalii wa ndani kwa wanafunzi wa shule za sekondari nchini.Anafanya hivyo kwa lengo la kuongeza mapato yatokanayo na utalii na kukuza uzalendo kwa kuhamasisha wanafunzi wapende na kuthamini vitu vya kwao.H",
+  "ncd": 0.6558533310890198
+ },
+ {
+  "text": " SHIRIKA la Viwango Tanzania (TBS) limetoa miezi mitatu kwa wazalishaji wa bidhaa zilizo katika orodha ya viwango vya lazima kutakiwa kuthibitishwa ubora wake.Katika kipindi hicho, shirika litathibitisha ubora wa bidhaa hizo na wasambazaji na wauzaji watatakiwa kuingiza sokoni bidhaa zenye ubora.Mku",
+  "gold": "0",
+  "pred": "1",
+  "neighbour": " SHIRIKA la Viwango Tanzania(TBS) limetoa vyeti na leseni 94 kwa wazalishaji wakubwa, wa kati na wadogo ambao bidhaa zao zimethibitishwa na shirika hilo kwa kukidhi matakwa ya viwango vya ubora kwa kipindi cha kuanzia Julai hadi Septemba, mwaka huu.Kati ya vyeti na leseni 94 zilizotolewa, vyeti 25 v",
+  "ncd": 0.7874720096588135
+ },
+ {
+  "text": " SIMU za mkononi zinazozalishwa nchini hapa na kiwanda cha Mara Corporation zitaanza kuuzwa katika masoko ya kitaifa na kimataifa ndani ya miezi miwili kuanzia sasa.Kwa kuanza uzalishaji huo, Rwanda inakuwa nchi ya kwanza kuzalisha simu za kisasa katika nchi za Jumuiya ya Afrika Mashariki (EAC).Awal",
+  "gold": "0",
+  "pred": "1",
+  "neighbour": " MAENDELEO ya sayansi na teknolojia yanazidi kushika kasi duniani na nchi za Afrika Mshariki.Kwa sasa Tanzania, Uganda na Rwanda nazo hazijabaki nyuma, baada ya kuingia katika kundi la nchi zinazotengeneza magari, kompyuta na simu na bidhaa zake.Rwanda ilishaanza kutengeneza simu za mkononi na magar",
+  "ncd": 0.8055555820465088
+ },
+ {
+  "text": "NEW YORK, Marekani SERIKALI ya China na Marekani zimeafikiana kutowekeana ushuru mpya wakati nchi hizo zikifanya majadiliano   kufikia makubaliano ndani ya siku 90. Makubaliano hayo yalifikiwa jana mjini hapa  kati ya Marais Donald Trump na Xi Jinping. Ikulu   ilieleza kuwa katika makubaliano hayo, ",
+  "gold": "3",
+  "pred": "0",
+  "neighbour": " SERIKALI imesema kampuni 22 kutoka nchini Misri zimewekeza nchini zaidi ya Dola za Marekani milioni 900 sawa na Sh trilioni 2.068 hali iliyosaidia kuongeza ukuaji wa biashara na uchumi.Aidha, biashara kati ya Tanzania na Misri imekua kwa asilimia 75 baada ya Misri kuingiza nchini, bidhaa mbalimbali",
+  "ncd": 0.8396226167678833
+ },
+ {
+  "text": "  PATRICIA KIMELEMETA MAELFU ya wananchi wa Dar es Salaam na wengine kutoka nje ya mkoa huo, wamefurika kupata matibabu ya bure kwenye meli ya Jeshi la China yenye hospitali ndani, huku wengine wakidai wamelazimika kulala nje karibu na Kituo Kikuu cha Polisi ili wawahi kupata matibabu. Meli hiyo ili",
+  "gold": "1",
+  "pred": "5",
+  "neighbour": "PATRICIA KIMELEMETA-DAR ES SALAAM BAADHI ya ndugu na jamaa wamewatoa wagonjwa wao katika hospitali mbalimbali nchini na kuwapeleka kwenye kambi ya matibabu inayotolewa na madaktari kutoka China kwenye meli iliyotia nanga katika Bandari ya Dar es Salaam (TPA). Meli hiyo iliyowasili Novemba 20 mwaka h",
+  "ncd": 0.8326530456542969
+ },
+ {
+  "text": "MWANDISHI WETU -SIMIYU MAKAMU wa Rais, Samia Suluhu Hassan amewataka wanawake wajasiriamali kuchangamkia fursa zinazotolewa na Benki ya CRDB hususani mikopo ya WAFI kukuza na kuboresha biashara zao. Alisema hayo  jana, alipotembelea banda la Benki ya CRDB katika kilele cha maadhimisho ya siku ya wan",
+  "gold": "1",
+  "pred": "0",
+  "neighbour": " Benki ya CRDB imetangaza kuwa itakuwa mdhamini Mkuu wa Maonesho ya Pili ya Viwanda Mkoa wa Pwani.Mkurugenzi Mtendaji wa Benki hiyo, Abdulmajid Nsekela ameushukuru uongozi wa mkoa huo kwa kuishirikisha benki hiyo, na kwamba, mwaka jana ilikuwa mdhamini mkuu wa maonesho ya kwanza ya viwanda mkoani hu",
+  "ncd": 0.8139534592628479
+ },
+ {
+  "text": " Taarifa hiyo yenye zaidi ya wakazi 82,000 kati ya hao asilimia tatu tu ndio wenye uwezo wa kufuga, huku asilimia 97 wakiwa hawana uwezo wa kufanya chochote kutokana na wananchi hao kuzuiwa kufanya shughuli zozote za kilimo ndani ya hifadhi hiyo.Mwenyekiti wa Baraza la Wafugaji Ngorongoro ambaye pia",
+  "gold": "0",
+  "pred": "1",
+  "neighbour": "Na JANETH MUSHI-ARUSHA  SERIKALI imeombwa kuwapatia wafanyabiashara wa nyama kibali cha kusafirisha ngozi  nje ya nchi ili kuweza kunufaika kiuchumi na kuliingizia Taifa mapato  zaidi. Ombi hilo lilitolewa juzi na Mwenyekiti wa  Chama cha Wafanyabiashara wa Nyama jijini Arusha, Alex Lasiki, alipokuw",
+  "ncd": 0.8252426981925964
+ },
+ {
+  "text": "LONDON, UINGEREZA STAA wa filamu na mitindo nchini Uingereza,\nNaomi Campbell, ameweka wazi kuwa kila siku amekuwa akilia kutokana na kupoteza\nmarafiki kwa virusi vya Corona. Virusi hivyo vya Corona vilianza\nkugundulika tangu Desemba mwaka jana huko nchini Korea Kusini, lakini sasa\nvimeenea sehemu ku",
+  "gold": "4",
+  "pred": "3",
+  "neighbour": "MIAMI, MAREKANI  STAA wa filamu na muziki nchini Marekani, Miley Cyrus, ameshindwa kuzuia hisia zake baada ya Nguruwe wake ambaye anajulikana kw ajina la Pet Pig Pig. Mrembo huyo mwenye umri wa miaka 26, ametumia\nukurasa wake wa Instagram kumlilia Nguruwe huyo huku akiwaambia mashabiki\natakuwa na ki",
+  "ncd": 0.7422680258750916
+ },
+ {
+  "text": " Waziri wa Habari, Utamaduni, Sanaa na Michezo, Dk. Harrison Mwakyembe amelielekeza Baraza la Sanaa Taifa (BASATA) kwa kishirikiana na Jeshi la Polisi kumchukulia hatua msanii Godfrey Tumaini ‘Dudu Baya’ kwa kumdhihaki marehemu Ruge Mutahaba.Ruge alikuwa Mkurugenzi wa Vipindi na Uzalishaji Clouds Me",
+  "gold": "1",
+  "pred": "4",
+  "neighbour": "Beatrice Kaiza MKALI wa bongo fleva, Godfrey Tumaini ‘Dudu Baya’ kwa sasa ameachiwa\nhuru baada ya kufungiwa kufanya kazi ya Sanaa kutokana na kukataa wito wa kuhojiwa\nna Baraza la Sanaa Tanzania (BASATA) kuhusu tuhuma za kutumia lugha zisizo na\nmaadili kwenye mitandao ya kijamii. Kutokana na hali hi",
+  "ncd": 0.7133479118347168
+ },
+ {
+  "text": " Vifaa hivyo vya michezo vilipewa timu ya Wazawa FC kutoka kijiji cha Mingoji na timu ya Takesh Academy ya wilayani humo baada ya kufanyika kwa meshi kati ya timu ya Wazawa na ile ya TPDC.Wazawa walikabidhiwa vifaa vyenye thamani ya Sh milioni tano na Takesh Academy walikabidhiwa vifaa vya michezo v",
+  "gold": "2",
+  "pred": "4",
+  "neighbour": " Na FERDNANDA MBAMILA-DAR ES SALAAM CHAMA cha Watunisha Misuli Tanzania (TBBF), kimepanga kutoa ajira kwa vijana watakaoshinda kwenye shindano la kutunisha misuli litakalofanyika Desemba 8, mwaka huu. Katibu Mkuu wa Chama hicho, Francis Mafungilo, alisema lengo la kufanya shindano hili ni kusaidia k",
+  "ncd": 0.801125705242157
+ },
+ {
+  "text": "Na ADAM MKWEPU-DAR ES SALAAM TAASISI ya Kuzuia na Kupambana na Rushwa (Takukuru), imesema bado inaendelea kuwashikilia viongozi wa juu wa Shirikisho la Soka Tanzania (TFF), Rais Jamal Malinzi na Katibu Mkuu wake, Selestine Mwesigwa, hadi watakapojiridhisha na uchunguzi wao. Takukuru waliwaweka viong",
+  "gold": "2",
+  "pred": "1",
+  "neighbour": " UCHAGUZI Mkuu wa Shirikisho la Soka Tanzania (TFF),  uliopangwa kufanyika Agosti 12, mwaka huu mkoani Dodoma, mchakato wake umesitishwa jana, kwa kile kilichoelezwa kutokuwapo kwa maelewano kwa wajumbe wa kamati ya uchaguzi ya Shirikisho hilo Tayari kamati ya uchaguzi ya Shirikisho hilo ilifikia ku",
+  "ncd": 0.79474937915802
+ },
+ {
+  "text": " TASWIRA ya Ligi Kuu soka Tanzania Bara imeanza kubadilika baada ya michezo ya mzunguko wa 11 kumalizika, huku ikionesha timu ambazo zimekuwa zikiongoza misimu iliyopita kwa zamu, ikijirudia.Usukani wa ligi unashikiliwa na Azam FC yenye pointi 24 baada ya kucheza michezo 10, kushinda saba na kupata ",
+  "gold": "1",
+  "pred": "2",
+  "neighbour": " MABINGWA watetezi wa Ligi Kuu Soka Tanzania Bara Simba wanatarajiwa kushuka dimbani leo kuwakaribisha Alliance ya Mwanza kwenye uwanja wa Taifa.Simba imetoka kupata ushindi wa mabao 3-0 katika mchezo uliopita dhidi ya Stand United huku Alliance ikitoka kupata kichapo kama hicho kutoka kwa Yanga. Mc",
+  "ncd": 0.7827903032302856
+ },
+ {
+  "text": " WADAU wa bandari kutoka Afrika na baadhi ya nchi za Bara la Ulaya wamekutana jijini Dar es Salaam kujadiliana kuhusu masuala yanayohusu bandari zikiwemo fursa za kiuchumi za uendelezaji wa bandari hizo.Mkutano huo wa tatu ujulikanao kama ‘Utanuzi wa Bandari Afrika’ pamoja na kujadili masuala yanayo",
+  "gold": "0",
+  "pred": "1",
+  "neighbour": " BAADA ya gati tatu kufunguliwa na kuanza kufanya kazi katika Bandari ya Dar es Salaam, Mamlaka ya Bandari Tanzania (TPA) inatarajia kupokea na kufungua gati namba tatu baada ya siku 10 kuanzia sasa.Gati hilo ni sehemu ya magati saba yanayojengwa katika bandari hiyo na yanayotarajiwa kufunguliwa na ",
+  "ncd": 0.7951515316963196
+ },
+ {
+  "text": "Derick Milton, Bariadi Zaidi ya watoto 150,000 wenye umri\nwa kuanzia miezi tisa hadi miaka mitano katika Wilaya ya Bariadi Mkoani Simiyu,\nwanatarajiwa kupatiwa chanjo ya magonjwa ya Surua, Lubela na Polio. Chanjo hizo zitaanza kutolewa\nSeptemba 26 hadi 30, mwaka huu katika zahanati, vituo vya Afya n",
+  "gold": "5",
+  "pred": "1",
+  "neighbour": "Derick Milton, Simiyu    Hatimaye tume iliyoundwa kuchunguza\nsakata la wizi wa mashine ya ultrasound katika Hospitali ya Halmashauri ya Mji\nwa Bariadi Mkoani Simiyu imeanza kazi. Akizungumza na Mtanzania Digital leo\nJumatano Agosti 21, Katibu Tawala wa Mkoa wa Simiyu, Jumanne Sagini amesema  wametek",
+  "ncd": 0.800285279750824
+ },
+ {
+  "text": " SAMMY WAWERU na CHARLES WASONGA MTOTO mwenye umri wa mwezi mmoja, ni miongoni mwa wagonjwa waliothibitishwa na Naibu Waziri wa Afya, Dk. Rashid Aman alipotoa takwimu za idadi ya maambukizi mapya ya Covid-19 katika kipindi cha saa 24 ambazo zimepita. Visa vya Covid-19, sasa ni 1,888 baada ya kuthibi",
+  "gold": "3",
+  "pred": "5",
+  "neighbour": "AVELINE KITOMARY, DAR ES SALAAM  Idadi ya Wagonjwa wanaougua homa kali ya mapafu inayosababishwa na\nvirusi vya Corona  (Covid-19) imeendelea\nkuongezeka kutoka 13 na kufikia 19. Taarifa iliyotolewa na waziri wa Afya Maendeleo ya Jamii Jinsia Wazee na\nWatoto Ummy Mwalimu zimesema kuwa wagonjwa hao wam",
+  "ncd": 0.8333333134651184
+ },
+ {
+  "text": " MCHEZO wa Ligi Kuu Bara kati ya Singida United na Simba uliochezwa kwenye uwanja wa Sheikh Amri Abeid mjini hapa mwishoni mwa wiki iliyopita umeingiza Sh milioni 70. 1.Singida United iliyokuwa mwenyeji wa mechi hiyo ilifungwa bao 1-0 na kuzidi kujididimiza mkiani mwa msimamo wa ligi. Kwa mujibu wa ",
+  "gold": "1",
+  "pred": "2",
+  "neighbour": " MCHEZO wa fainali Kombe la Shirikisho la Azam (FA) ulizozikutanisha timu ya Mtibwa Sugar na Singida United, uliingiza mapato ya uwanjani ya Sh milioni 20 mchezo uliopigwa mwishoni mwa wiki kwenye Uwanja wa Sheikh Amri Abeid mjini hapa.Mashabiki wa soka walifurika kushuhudia mtanange huo kutoka maen",
+  "ncd": 0.7171361446380615
+ },
+ {
+  "text": " Jarida maarufu duniani la Forbes limemtangaza mwanamziki wa Hip Hop kutoka Marekani Shawn Carter ‘Jay-Z’ kuwa ni rapa wa kwanza duniani kuingia katika orodha ya mabilionea. Inaelezwa kuwa, mafanikio ya mwanamuziki huyo yamekuja baada ya kujenga utajiri wake kupitia kazi zake za kisanii, mitindo na ",
+  "gold": "3",
+  "pred": "4",
+  "neighbour": "   NEW YORK, MAREKANI STAA wa muziki nchini Nigeria, Ayodeji Balogun maarufu kwa jina la Wizkid, ametangaza kufungua duka la nguo jijini New York, nchini Marekani. Msanii huyo ambaye amefanya kazi na wasanii mbalimbali nchini Marekani, kama vile Drake, Chris Brown, Nicki Minaj na wengine, amedai duk",
+  "ncd": 0.7788235545158386
+ },
+ {
+  "text": " NAIBU Waziri wa Nchi, Ofi si ya Rais, Menejimenti ya Umma na Utawala Bora, Dk Mary Mwanjelwa amemuonya Ofisa Utumishi wa Halmashauri ya Wilaya ya Kibaha mkoani Pwani Ruth Mwelo.Akizungumza na watumishi kutoka Halmashauri za Wilaya na Halmashauri ya Mji wa Kibaha mkoani Pwani jana alisema kiongozi k",
+  "gold": "1",
+  "pred": "2",
+  "neighbour": " NAIBU Waziri wa Nchi, Ofi si ya Rais, Utumishi wa Umma na Utawala Bora, Dk Mary Mwanjelwa (pichani) amewataka wakuu wa wilaya, watendaji wa Serikali Kuu, wakurugenzi wa mamlaka ya serikali za mitaa pamoja makatibu tawala wa wilaya na watumishi wengine wa serikali kuhakikisha wanafanya kazi kwa kuzi",
+  "ncd": 0.7902777791023254
+ },
+ {
+  "text": "Na JANETH MUSHI- ARUSHA  MKURUGENZI Mtendaji wa Benki ya NMB, Ineke Bussemaker, amesema wanajivunia  kuwa na wateja wanaochipukia ambao huchangia mzunguko wa fedha hadi kufikia Sh bilioni 10 kwa mwaka. Pamoja na hali hiyo, alisema bado wanajivunia kuwa na mtandao mpana nchini ikiwamo kuwapatia mkopo",
+  "gold": "1",
+  "pred": "0",
+  "neighbour": " Mkurugenzi Mtendaji wa Benki ya NMB, Ineke Bussemaker, aliyasema hayo jijini Dar es Salaam jana alipokuwa anatoa mwendelezo wa taarifa za kifedha za benki hiyo kwa vyombo vya habari.Aidha, Bussemaker alisema kumekuwepo sababu mbalimbali za ongezeko hilo kuwa dogo miongoni mwake ikiwa ni kulegalega ",
+  "ncd": 0.7983104586601257
+ },
+ {
+  "text": " Akizungumza wakati wa kutoa zawadi katika shindano la Twitter na Mengi, Mengi alisema Watanzania wengi wanaamini ni fedha tu ndio inamwezesha mtu kufanya biashara, jambo ambalo alisema si la kweli bali mtu anaweza kuanzisha biashara kwa kutumia mawazo aliyonayo.\"Ni ufinyu wa fikra na elimu ya biash",
+  "gold": "0",
+  "pred": "1",
+  "neighbour": " BENKI ya NMB itaendeleza jitihada zake kwa wakulima nchini kuwawezesha wanavyohitaji kulingana na mazao yao ili kuifanya sekta ya kilimo nchini kubeba zaidi uchumi wa nchi. Imesema kuwa kwa muda mrefu imekuwa ikitangaza sekta ya wakulima na kuwasaidia kama ajenda yake kuu kutokana na asilimia kubwa",
+  "ncd": 0.8585419058799744
+ },
+ {
+  "text": " RAIS John Magufuli amekabidhiwa rasmi uenyekiti wa Jumuiya ya Maendeleo ya Kusini mwa Afrika (SADC) leo, Jumamosi, jijini Dar es Salaam.Rais Magufuli anachukua madaraka hayo kutoka kwa Rais wa Namibia Dk Hage Geigob na ataongoza jumuiya hiyo kwa kipindi cha mwaka mmoja.Makabidhiano hayo yamefanyika",
+  "gold": "1",
+  "pred": "3",
+  "neighbour": "Anna Potinus Rais Dk. John Magufuli ameiomba Jumuiya ya Kimataifa kuiondolea vikwazo vya kiuchumi\nnchi ya Zimbabwe ambapo amesema kuwa vikwazo hivyo vimelemaza uchumi wa taifa\nhilo. Rais Magufuli ametoa kauli hiyo leo Jumamosi Agosti 17, alipokuwa akihutubia wakuu wa nchi Wanachama Jumuiya ya Maende",
+  "ncd": 0.7003154754638672
+ }
+]

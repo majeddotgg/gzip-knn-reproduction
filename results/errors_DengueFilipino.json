@@ -1,0 +1,282 @@
+[
+ {
+  "text": "@PolineADVE ano ba kasi sikreto mo bat nadami lamok niyo AHAHAHAH???",
+  "gold": "3",
+  "pred": "0",
+  "neighbour": "Aabsent ako sa Monday para maka nuod ng NBA All Star ?",
+  "ncd": 0.5061728358268738
+ },
+ {
+  "text": "Nilalagnat na ko pucha walang makakapigil sakin papasok parin ako letse konting araw nalang",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "Wala na nga akong lagnat pero sakit parin ng lalamunan ko???",
+  "ncd": 0.5056179761886597
+ },
+ {
+  "text": "Hindi na nakaluwas ?? putapeteng checkup yan!",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "may feeling na daw ma absent ko bwas aw? lol",
+  "ncd": 0.46875
+ },
+ {
+  "text": "Hindi na nakaluwas ?? putapeteng checkup yan!",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "may feeling na daw ma absent ko bwas aw? lol",
+  "ncd": 0.46875
+ },
+ {
+  "text": "that joy you feel when u killed an Aedes Aegypti/Albopictus with your own hands ?",
+  "gold": "1",
+  "pred": "2",
+  "neighbour": "sadly, we had to take our dinner dito sa hospital ... just because we had to ?",
+  "ncd": 0.5333333611488342
+ },
+ {
+  "text": "absent po uli si Benjie mga prends si Richard po ang present.. mga titig at damoves eh. \n\n#DTBYKiligDate",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "#ALDUBxDTBYAbangan\nYung magpapainjection ka sa nurse pero tinanggihan ka\nkase ayaw ka nya masaktan.",
+  "ncd": 0.5849056839942932
+ },
+ {
+  "text": "Bangag feels!! I hate this colds!!!",
+  "gold": "2",
+  "pred": "3",
+  "neighbour": "mosquitos on this damn island gmfu",
+  "ncd": 0.48148149251937866
+ },
+ {
+  "text": "I've woken up to find myself with a slight fever multiple times na :-? Wonder what's wrong",
+  "gold": "2",
+  "pred": "3",
+  "neighbour": "Slightly chapped lips + feels like I'm coming down with a fever, gahh hassle ?",
+  "ncd": 0.5555555820465088
+ },
+ {
+  "text": "TANGINA ANG LALA NG SIPON KOO",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "ISA NA ANG ABSENT KO HUHUHUHU",
+  "ncd": 0.45652174949645996
+ },
+ {
+  "text": "Hapit ko masangit gaina sa medical pagkuhag working permit kay gi UTI na diay ko. Huhuhu bye coffee ??",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "So pagako mgaabsent kelangan ng medical?!!! Wtf. No joke to huhu di naman ako maghohotair fest. ??",
+  "ncd": 0.567307710647583
+ },
+ {
+  "text": "Mayta naay gwapo na nurse naka assign sa room ni mommy run uy para maactive sad tag bantay????",
+  "gold": "2",
+  "pred": "3",
+  "neighbour": "Ang daming Lamok ? Wag nyu namn ubusin yung fats ko pinaghirapan koto ???",
+  "ncd": 0.5376344323158264
+ },
+ {
+  "text": "@sndrmrnrvz saro lang ha? May sipon ka pa ?",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "Lagnat pls distansya muna dami ggawin bukas",
+  "ncd": 0.4444444477558136
+ },
+ {
+  "text": "yawa niabsent pako mga boshet nga igsuon",
+  "gold": "0",
+  "pred": "3",
+  "neighbour": "hay nako lamok ano ba silbi mo sa lipunan",
+  "ncd": 0.4067796468734741
+ },
+ {
+  "text": "Andaming lamok netong Uber ha. ? (@ Sandoval Ave) https://t.co/EiEIuVYl3Z",
+  "gold": "3",
+  "pred": "2",
+  "neighbour": "I may be sick but at least my eyebrows are on fleek https://t.co/xx3ZYRbAlB",
+  "ncd": 0.54347825050354
+ },
+ {
+  "text": "Hindi ko alam kung mainit lang ba talaga o nilalagnat na ko. Hahaha",
+  "gold": "2",
+  "pred": "3",
+  "neighbour": "Wala na nga akong lagnat pero sakit parin ng lalamunan ko???",
+  "ncd": 0.43421053886413574
+ },
+ {
+  "text": "Nurse ako na lang wag ka ng maghanap ng iba",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "gusto ko na lang talaga umabsent bukas ?",
+  "ncd": 0.4237288236618042
+ },
+ {
+  "text": "dry cough. headache. itchy throat. ?",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "mu absent unta tanan teacjers ron oy",
+  "ncd": 0.4464285671710968
+ },
+ {
+  "text": "\"i feel sick\"\n\"ka-feelingon pud nimo oy!\"\n\nAy grabe siya...",
+  "gold": "2",
+  "pred": "3",
+  "neighbour": "grabe ang baby lamok. ga lukso na ya subong?   praktis lupad",
+  "ncd": 0.5
+ },
+ {
+  "text": "Wala kang karapatan magreklamo kasi mas may nagawa pa ko kaysa sayo hahaha! Kahit umabsent ako ng isang linggo, alam ko pa din gagawin.",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "Kahit lagnatin nalang ako ng isang linggo,  wag lang magkameron nun. ???",
+  "ncd": 0.5508474707603455
+ },
+ {
+  "text": "ang tagal banaman ng doctor kahapon, wenya",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "hay kalami mag absent. wanna sleep all day",
+  "ncd": 0.4098360538482666
+ },
+ {
+  "text": "Bat ba kapag nasa hospital ka ang bagal ng oras??",
+  "gold": "2",
+  "pred": "3",
+  "neighbour": "worth it ba ang pag aabsent ko ? hahahah lp nga eh",
+  "ncd": 0.4153846204280853
+ },
+ {
+  "text": "@EmilJoy1234 Taga patay ng ipis/lamok/anay lahat na. Lintek.",
+  "gold": "3",
+  "pred": "0",
+  "neighbour": "Atay! So nka absent na nmn ng estimates ky late na nag mata ?",
+  "ncd": 0.5316455960273743
+ },
+ {
+  "text": "lamia mag absent woy. sakit na gyud akoang lawas ba huhuhu",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "so ayun po nga bes bumalik yung lagnat ko hehe galingg",
+  "ncd": 0.4225352108478546
+ },
+ {
+  "text": "Morningggg tangina ang aga ko na naman nagising aantukin na naman ako mamaya tas tatamadin pumasok tapos aabsent",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "Kagagaling ng sipon ko last week tapos may sipon na naman ako",
+  "ncd": 0.5157894492149353
+ },
+ {
+  "text": "damn shet absent naaaa c acqoe taena talagaa",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "nachos kahit nilalagnat mongoloid talaga e",
+  "ncd": 0.4000000059604645
+ },
+ {
+  "text": "Ikaw pala yung nasa 9th floor? -Marco\nMagkatabi tayo ng Room kase ikaw yung nagkalagnat -Kisses\n#MBLuckyBigPlacers \nKissMarc",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "Ako lng ba yung \"ill ask permission to absent 2 days before march 2?\"\nHahahaa\nTapang ni gwen oh. Hahaha",
+  "ncd": 0.5901639461517334
+ },
+ {
+  "text": "when ure out of class for 2 days bc of illness and they miss u already hahahahhahahahaha lol https://t.co/HtRCXguFX3",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "Hay pikachu kaasar ka. So near yet so far. @ Healthserv Los Ba?os Medical Center https://t.co/i9S4WQCreU",
+  "ncd": 0.5299145579338074
+ },
+ {
+  "text": "Inlove nako sakon sipon kag ubo ya. Binalikan nman ko nila",
+  "gold": "2",
+  "pred": "3",
+  "neighbour": "Hanep na lamok isang kagat nyo pa  kakagatin ko na kayo. ?",
+  "ncd": 0.4383561611175537
+ },
+ {
+  "text": "I feel so stress and sick coz of upcoming finals ?",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "gusto unta ko mo absent pero naay mga quiz ?",
+  "ncd": 0.4202898442745209
+ },
+ {
+  "text": "Awake for more than 24hrs now. Rushed my brother to the hosp after he experienced palpitation upon coughing.",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "Ako lng ba yung \"ill ask permission to absent 2 days before march 2?\"\nHahahaa\nTapang ni gwen oh. Hahaha",
+  "ncd": 0.5714285969734192
+ },
+ {
+  "text": "@teddyboylocsin @shattershards @cnnphilippines \n\nImmunization from impeachment vaccine maintains immunity from lawsuits.\n... wins immunity!",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "excuse excuse excuse letter na naman po si ako hahah \nsorry ser, last na po yan.\n\nLadyLuster Unveiled\n#KCAPinoyStar #NadineLustre",
+  "ncd": 0.6290322542190552
+ },
+ {
+  "text": "Ung pinasok sa lalamunan mo to... #deepthroat  #sick https://t.co/KinbFe70rG",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "Hindi ka mahahassle pumasok kung aabsent ka bukas https://t.co/K5VE7QsLt1",
+  "ncd": 0.510869562625885
+ },
+ {
+  "text": "absent ko kay late nako nag mata.. this is getting worse",
+  "gold": "0",
+  "pred": "3",
+  "neighbour": "Umattend sa wala lang ako kanina eh.inabsentan ako syet",
+  "ncd": 0.4084506928920746
+ },
+ {
+  "text": "i cant stay in the lib im coughing very loudly huhuhuhu",
+  "gold": "2",
+  "pred": "1",
+  "neighbour": "that moment when you got the license to absent",
+  "ncd": 0.44117647409439087
+ },
+ {
+  "text": "I seriously need to see a doctor  na ?",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "mu absent unta tanan teacjers ron oy",
+  "ncd": 0.4385964870452881
+ },
+ {
+  "text": "Tinamad, nag halfday...\nPatay ka beshie",
+  "gold": "0",
+  "pred": "2",
+  "neighbour": "9 ngayon hindi 8 so bakit nilalagnat ako",
+  "ncd": 0.5
+ },
+ {
+  "text": "Wala po ako sa outing kahapon, nasa hospital po ako. Wag kayong ano jan. Di ako sinungaling ?\n#Summer2013 #TBTLangYun #WagKayongAno ?",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "Pag natalo TNT, aabsent ako bukas. Sigurado puro pangbubully aabutin ko sa mga clients. ??? #PBASemis #PBA2017 TNTnation",
+  "ncd": 0.6124030947685242
+ },
+ {
+  "text": "balik hospital fr sm pamp. puta kapagoddd ?",
+  "gold": "2",
+  "pred": "3",
+  "neighbour": "wow valentine's mapupunta pa ko sa hospital?",
+  "ncd": 0.421875
+ },
+ {
+  "text": "sakit sa ulo ng init shet tapos sinisipon pa ko ?",
+  "gold": "2",
+  "pred": "3",
+  "neighbour": "kainaman na ang lamok ? pati labi ko kinagat ????????",
+  "ncd": 0.38461539149284363
+ },
+ {
+  "text": "Woo naiyak nanaman ako dahil sa sinat na bwiset na to??",
+  "gold": "2",
+  "pred": "0",
+  "neighbour": "tngn ayaw ako pahingahin netong pesteng sipon na to ?",
+  "ncd": 0.43478259444236755
+ }
+]

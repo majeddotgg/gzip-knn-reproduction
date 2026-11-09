@@ -1,0 +1,282 @@
+[
+ {
+  "text": "china daily says pct grain stocks survey seven cities showed seven pct china grain stocks china daily said also said year mln tonnes pct china fruit output left mln tonnes pct paper blamed waste inadequate storage bad methods said government launched national programme reduce waste calling improved ",
+  "gold": "grain",
+  "pred": "earn",
+  "neighbour": "philippines posts mln dlr january trade deficit philippines posted trade deficit mln dlrs january compared deficits mln january mln december government figures show national statistics office said imports mln dlrs january mln january mln dlrs december exports mln mln january lower december mln count",
+  "ncd": 0.7230046987533569
+ },
+ {
+  "text": "jardine matheson said sets two five bonus issue replacing b shares",
+  "gold": "earn",
+  "pred": "money-fx",
+  "neighbour": "fed sets two day system repurchases fed says",
+  "ncd": 0.44594594836235046
+ },
+ {
+  "text": "nippon steel denies china seeking japanese plants nippon steel corp denied local newspaper reports china seeking buy steel plants japanese firms plan suspend output recently announced rationalisation program quoted nippon steel saying china state planning commission chinese firms asked japanese make",
+  "gold": "acq",
+  "pred": "ship",
+  "neighbour": "japan shipbuilders seek cartel restrict output japanese shipbuilders applied state fair trade commission form cartel restrict tonnage built half total capacity year starting april officials shipbuilders association japan said plan yards capable building ships gross tons curtail operations three mln ",
+  "ncd": 0.7802197933197021
+ },
+ {
+  "text": "conrac cax merger talks several conrac corp started negotiations several interested parties possible acquisition said assurance transaction result talks gave details mark iv industries inc iv started tendering conrac shares dlrs march owned pct conrac starting bid conrac producer marketer computer r",
+  "gold": "acq",
+  "pred": "earn",
+  "neighbour": "chi chi takes mln dlr charge chi chi inc said taken mln dlr pretax charge earnings third quarter ended january cover cost underperforming company owned restaurants company also said agreed repurchase three mln common shares open market company mln shares outstanding chi chi today reported loss third",
+  "ncd": 0.7434210777282715
+ },
+ {
+  "text": "dominion textile calls report bid burlington rumor",
+  "gold": "acq",
+  "pred": "crude",
+  "neighbour": "citgo raises crude postings cts today wti dlrs bbl",
+  "ncd": 0.38235294818878174
+ },
+ {
+  "text": "fed sets overnight system repurchases fed says",
+  "gold": "interest",
+  "pred": "money-fx",
+  "neighbour": "fed sets two day system repurchases fed says",
+  "ncd": 0.21875
+ },
+ {
+  "text": "trump interstate properties talks acquire",
+  "gold": "acq",
+  "pred": "earn",
+  "neighbour": "k mart corp th qtr shr dlrs vs nine cts",
+  "ncd": 0.38983049988746643
+ },
+ {
+  "text": "canada allows publishing takeover harcourt investment canada said allowed indirect takeover holt rinehart winston canada ltd w b saunders co canada ltd ltd harcourt brace jovanovich canada inc government agency said however harcourt canada agreed sell control firms canadian interests within two year",
+  "gold": "acq",
+  "pred": "earn",
+  "neighbour": "harcourt brace jovanovich inc hbj th qtr net shr cts vs cts net vs revs mln vs mln avg shrs mln vs mln year shr dlrs vs dlrs net mln vs mln revs billion vs mln avg shrs mln vs mln note dec one company acquired holt rinehart winston w b saunders press foreign subsidiaries including companies single m",
+  "ncd": 0.636734664440155
+ },
+ {
+  "text": "white house standing firm japanese sanctions presidential spokesman marlin fitzwater said u trade sanctions japan likely take effect april spite full court press japanese officials avoid indications take effect said would say japan applying full court press certainly putting feet forward terms expla",
+  "gold": "trade",
+  "pred": "crude",
+  "neighbour": "report due oil imports national security presidential commission studying oil imports including effect national security make report soon white house said spokesman marlin fitzwater said panel set last october examine u oil import needs would make report soon probably within next weeks said national",
+  "ncd": 0.69140625
+ },
+ {
+  "text": "nat l distillers says agrees sell spirits unit mln dlrs american brands",
+  "gold": "acq",
+  "pred": "trade",
+  "neighbour": "canada january trade surplus mln dlrs december mln dlrs surplus",
+  "ncd": 0.4285714328289032
+ },
+ {
+  "text": "usda seeks comments grain discount schedule u agriculture department seeking public comments question adjusting commodity credit corporation ccc discount premium schedules improve quality grain accepts loan price support programs premiums discounts schedule based quality factors content damage sched",
+  "gold": "grain",
+  "pred": "ship",
+  "neighbour": "freight insurance proposed ccc sales usda u agriculture department proposing permit coverage freight cost marine war risk insurance sales agricultural commodities sold credit terms commodity credit corporation ccc credit guarantee programs proposal applies commodities sold exporters cost freight c f",
+  "ncd": 0.7127272486686707
+ },
+ {
+  "text": "national distillers dr sell spirits unit national distillers chemical corp said signed definitive agreement sell spirits division mln dlrs james co unit american brands inc amb sale spirits division made company previously announced plan sell spirits wines businesses said wine business sold last mon",
+  "gold": "acq",
+  "pred": "earn",
+  "neighbour": "transamerica ta gain unit sale transamerica corp said expects realize gain mln dlrs previously announced sale group life health operations occidental life insurance co subsidiary life accident co said transamerica life cos unit plans change conservative method deferred policy acquisition costs resul",
+  "ncd": 0.7599009871482849
+ },
+ {
+  "text": "intercare care post th qtr loss intercare inc said expects report substantial loss fourth quarter ended january writeoff expenses associated recently terminated debt equity offering company also said write includes expenses associated acquisition u medical enterprises inc restructuring certain partn",
+  "gold": "earn",
+  "pred": "acq",
+  "neighbour": "intercare care says acquisition terminated intercare inc said agreed terminate proposed acquisition universal care first jersey securities withdrawn underwriter proposed offering intercare securities company said offering raised dlrs working capital sale equity debt would also financed dlr cash port",
+  "ncd": 0.6927710771560669
+ },
+ {
+  "text": "hawkeye annual report qualified hawkeye bancorp annual financial results qualified auditors according annual report conditions may indicate company unable continue going concern auditors sells said hawkeye annual report shareholders hawkeye reported loss almost mln dlrs citing increase loan loss pro",
+  "gold": "earn",
+  "pred": "acq",
+  "neighbour": "financial corp fin holding buyout talks financial corp america said holding discussions anyone regarding buyout company spokeswoman pointed financial corp said publicly nearly two years company view merger would one method increasing company capital opportunity us strengthen capital position quickly",
+  "ncd": 0.7556109428405762
+ },
+ {
+  "text": "deficit cuts seen unable trade deficit financial analysts say pleased congressional moves trim next year federal budget deficit believe actions little help improve u trade deficit economy house representatives expected vote tomorrow approve dollar budget coming fiscal year reduces deficit billion dl",
+  "gold": "trade",
+  "pred": "money-fx",
+  "neighbour": "leading industrial nations meet april leading industrial nations meet next month review accord currency stability u officials said financial markets convinced countries live commitments speed economic growth narrow currency movements recent weeks strongly suggests six leading industrial countries no",
+  "ncd": 0.8597843050956726
+ },
+ {
+  "text": "german bankers remarks talk rate cut remarks two leading central bankers sparked renewed speculation financial markets cut west german three pct discount rate may discussion currency dealers said bundesbank board member said speech monetary growth resulting speculative capital inflows required cuts ",
+  "gold": "interest",
+  "pred": "money-fx",
+  "neighbour": "stoltenberg says paris accord policy continue west german finance minister gerhard stoltenberg said currency agreement reached paris february successful would continued stoltenberg told journalists next week international monetary fund meeting washington strategy stabilise currencies around current ",
+  "ncd": 0.8272583484649658
+ },
+ {
+  "text": "reports pct profit boost share split seen credit commercial de france pa reported parent company net profit pct mln francs mln francs weeks around end month official sources said bank france sixth largest terms deposits seventh terms assets planned share split increase number shares offer ahead sale",
+  "gold": "earn",
+  "pred": "acq",
+  "neighbour": "france sell stake societe generale unit french government sell public pct direct holding societe generale pa regional bank subsidiary societe generale de banque sogenal next monday sogenal officials said sogenal founded leading french regional bank branches austria belgium luxembourg east west germa",
+  "ncd": 0.7941606044769287
+ },
+ {
+  "text": "lex service buys sears motor group lex service plc l said acquired sears motor group ltd retail motor distribution arm sears plc l mln stg loan note payable sears motor mln stg purchase mln stg cash issue sears plc mln new lex ordinary shares company said statement immediately following acquisition ",
+  "gold": "acq",
+  "pred": "earn",
+  "neighbour": "lucas sees continued growth second half lucas industries plc l said underlying performance would continue improve second half profits would low activity u k commercial vehicle markets well north american electronics company earlier reported two mln stg rise pretax profit mln six months end january f",
+  "ncd": 0.8206185698509216
+ },
+ {
+  "text": "extends offer oldham plc l said offer oldham estates ltd would remain open notice february made agreed bid oldham based formula reflecting asset value september year earlier oldham net asset value put mln stg april valuation used formula still agreed oldham yet give firm recommendation shareholders ",
+  "gold": "acq",
+  "pred": "ship",
+  "neighbour": "pioneer sugar says csr takeover offer low pioneer sugar mills ltd said considered proposed dlrs share cash takeover offer announced csr ltd csra march low view group hk prospects pioneer recommended statement shareholders retain stock pending board response receives full details csr offer reuter",
+  "ncd": 0.6934673190116882
+ },
+ {
+  "text": "swiss launch new series money market paper swiss federal government launch new series three month money market certificates totalling around mln swiss francs national bank said close april payment date april last series three month paper issued march raised mln francs issue price pct giving average ",
+  "gold": "money-fx",
+  "pred": "interest",
+  "neighbour": "uae government paper yields unchanged yields certificates deposit issued united arab emirates central bank unchanged pct bank said yield applies maturities one two three six months reuter",
+  "ncd": 0.6524063944816589
+ },
+ {
+  "text": "step saver says warrant exercised step saver data systems inc said richards corp exercised warrant buy step saver shares two dlrs said warrants issued underwriter initial public offering exercised march aggregate dlrs reuter",
+  "gold": "acq",
+  "pred": "earn",
+  "neighbour": "homes sets initial distribution homes l p said general partners declared initial ct per unit distribution payable may unitholders record march made initial public offering february reuter",
+  "ncd": 0.6083915829658508
+ },
+ {
+  "text": "todd shipyards struck west coast todd shipyards corp said production workers represented multi union pacific coast metal trades district council san francisco division struck april six said negotiations expected resume end month todd also said collective bargaining division effect galveston division",
+  "gold": "ship",
+  "pred": "acq",
+  "neighbour": "lube buy control cardis cds corp said signed agreement purchase shares eight pct convertible preferred stock cardis corp representing voting control mln dlrs company said preferred purchase financed investment group led said also receive cardis five year options buy cardis common shares seven dlrs d",
+  "ncd": 0.7604166865348816
+ },
+ {
+  "text": "lebanese pound falls sharply dollar lebanese pound fell sharply u dollar today dealers decline continued political uncertainty pound closed dollar compared yesterday close political reflected pound position demand less offer market one dealer told reuters pound dollar january lost pct international ",
+  "gold": "money-fx",
+  "pred": "acq",
+  "neighbour": "tesco associate buys pct hillards tesco plc tsco l said county ltd yesterday bought behalf mln shares around pct hillards plc p p share tesco yesterday launched mln stg bid north england supermarket chain hillards promptly rejected hillards shares last quoted p compared last night close p reuter",
+  "ncd": 0.6887755393981934
+ },
+ {
+  "text": "bank france leaves intervention rate unchanged bank france said left intervention rate unchanged pct injected funds market first category paper today money market intervention tender money market dealers earlier expressed mixed views possibility quarter point cut rate last adjusted march cut pct eig",
+  "gold": "interest",
+  "pred": "money-fx",
+  "neighbour": "u k money market given mln stg assistance bank england said gave money market assistance worth mln stg afternoon buying bank bills rates established monday bank bought mln stg band one bills pct mln stg band two paper pct first time intervened today bank revised estimate liquidity shortage market ml",
+  "ncd": 0.6734693646430969
+ },
+ {
+  "text": "argentine grain weather report argentine grain temperatures rain mm hours gmt santa santa fe reuter",
+  "gold": "grain",
+  "pred": "interest",
+  "neighbour": "continental illinois raises prime rate continental illinois corp said raised prime rate reuter",
+  "ncd": 0.5058823823928833
+ },
+ {
+  "text": "lawson says countries could cut rates nigel lawson britain chancellor exchequer said countries may need cut interest rates aim maintaining exchange rate stability speaking journalists one day group seven countries reaffirmed goals set paris six weeks ago said central banks would continue intervene n",
+  "gold": "interest",
+  "pred": "money-fx",
+  "neighbour": "japan seeks strengthen paris currency accord japan seek strengthen paris accord currency stability meeting group seven leading industrial nations tomorrow japanese officials said however officials japanese finance minister kiichi miyazawa asked identified would provide details wanted accord signed s",
+  "ncd": 0.8121827244758606
+ },
+ {
+  "text": "lawson sees change u k monetary policy british chancellor exchequer nigel lawson said saw immediate implications british monetary policy arising group seven meeting yesterday exchange rate stability u k interest told journalists asked meant u k monetary policy said think immediate implications reute",
+  "gold": "money-fx",
+  "pred": "interest",
+  "neighbour": "hong kong banks leave interest rates unchanged hong kong association banks said decided leave interest rates unchanged today regular weekly meeting current rates pct savings accounts hours seven day call one week two weeks one month pct two months pct three six months three pct nine months pct month",
+  "ncd": 0.6902173757553101
+ },
+ {
+  "text": "sprinkel says tax hike would reduce deficit council economic advisers chairman sprinkel said reagan administration remains strongly opposed tax increase including billion dlrs new revenues budget plan congressional democrats believe significant increases taxes would reduce deficits could adverse eff",
+  "gold": "trade",
+  "pred": "crude",
+  "neighbour": "u officials defend oil reserve sale plan treasury secretary james baker office management budget chief james miller administration plan sell u naval petroleum reserves response hostile member house appropriations committee officials said plan justified help bring fiscal budget deficit get government",
+  "ncd": 0.7382550239562988
+ },
+ {
+  "text": "completes sale stock investors said completed sale mln dlrs stock citicorp venture capital ltd ventures read co private investors reuter",
+  "gold": "acq",
+  "pred": "earn",
+  "neighbour": "real estate gain sale real estate investment trust said post first quarter gain dlrs sale spanish ga completed last week reuter",
+  "ncd": 0.49038460850715637
+ },
+ {
+  "text": "canada trade rise seen start recovery canada trade picture considerably economists predictions sector would post long recovery year federal government reported today monthly surplus soared billion canadian dlrs february double january mln dlrs surplus sharply higher february mln dlr beginning trend ",
+  "gold": "trade",
+  "pred": "crude",
+  "neighbour": "iea forecasts slower growth oecd oil demand growth oil consumption western industrialized countries likely slow around one pct year compared pct international energy agency said oil use member countries organization economic cooperation development oecd increased around one pct first quarter mln bar",
+  "ncd": 0.8589595556259155
+ },
+ {
+  "text": "la land du pont dd get exploration louisiana land exploration co said du pont co conoco inc subsidiary b v offered four exploration blocks offshore netherlands louisiana land said blocks q e c e b offered group conoco pct interest louisiana land pct orange pct group along consortium headed pennzoil ",
+  "gold": "crude",
+  "pred": "earn",
+  "neighbour": "henley heng issue subsidiary shares henley group inc said plans issue pct common stock fisher scientific group inc unit henley group shareholders company said intends issue one share fisher scientific henley shares held shareholders record march distribution scheduled april six company also said sai",
+  "ncd": 0.791530966758728
+ },
+ {
+  "text": "moore sees substantial profit gain moore corp ltd expects profits continuing operations exceed results recover levels company earned mln u dlrs dlrs share president goodrich said substantial increase earnings continuing operations told reporters annual meeting said expected profits would recover las",
+  "gold": "earn",
+  "pred": "acq",
+  "neighbour": "coastal cgp sees increase profits coastal corp said expected earnings significantly profits mln dlrs last year letter shareholders company newly issued annual report coastal chairman elaborate much earnings expected increase profits coastal natural gas production pipeline company levels due energy p",
+  "ncd": 0.7847825884819031
+ },
+ {
+  "text": "japan plans cut discount rate bank japan sources said bank plans cut discount rate told reporters pressure japan group seven g meeting yesterday lower discount rate added feel need cut chancellor exchequer nigel lawson told reporters earlier today countries strong currencies might cut interest rates",
+  "gold": "interest",
+  "pred": "money-fx",
+  "neighbour": "exchange rates almost within g levels sumita bank japan governor satoshi sumita said current exchange rates almost within levels agreed six major nations last month paris asked whether dollar yen rate reflected economic fundamentals said current rates almost reflect fundamentals sumita told reporter",
+  "ncd": 0.7783417701721191
+ },
+ {
+  "text": "kuwait increases stake sime darby kuwait investment office increased stake sime darby bhd mln shares representing pct sime darby paid capital mln shares banking bhd si said since last november aggressively open market buying shares sime darby major corporation interests insurance property developmen",
+  "gold": "acq",
+  "pred": "earn",
+  "neighbour": "cie one five bonus share issue cie subsidiary recently privatised banking group cie financiere de paribas pa said issuing mln new francs nominal shares basis one five already held operation begin march spokesman said cie also said increased capital billion francs billion incorporation mln francs res",
+  "ncd": 0.7123894095420837
+ },
+ {
+  "text": "taiwan announces new round import tariff cuts taiwan announced plans another round import tariff cuts foreign goods shortly trade talks washington officials described move help balance trade united states wang deputy director finance ministry customs administration department told reporters list pro",
+  "gold": "trade",
+  "pred": "money-fx",
+  "neighbour": "taiwan study suspending controls premier ordered financial officials pace foreign exchange controls study possibility suspending controls cabinet statement said statement quoted telling finance central bank officials needed help reduce taiwan foreign exchange reserves reached record billion u dollar",
+  "ncd": 0.8156808614730835
+ },
+ {
+  "text": "texaco sees business little hit bankruptcy move texaco inc tx said decision file protection chapter u bankruptcy code affect majority businesses said subsidiaries account pct billion dlrs revenues pct net property plant equipment free action parent holding company texaco inc operating subsidiaries t",
+  "gold": "earn",
+  "pred": "acq",
+  "neighbour": "purolator pcc buyout hutton efh new jersey based overnight purolator courier corp said agreed acquired mln dlrs company formed e f hutton lbo inc certain managers purolator u courier business analysts said purolator sale time purolator announced earlier mulling takeover bid analysts predicted offer ",
+  "ncd": 0.8747178316116333
+ },
+ {
+  "text": "malaysia manufacturing exports rise pct malaysia manufacturing exports rose pct billion ringgit chairman export promotion council abdul said improved export performance led electrical electronic products textiles footwear clothing processed food timber chemical rubber products told news conference h",
+  "gold": "trade",
+  "pred": "earn",
+  "neighbour": "veba raises operating profit ag trading subsidiary veba ag f said increased operating profit despite sharp decline turnover added good chances profit level could held operating profit rose mln marks around mln however group third party sales fell sharply billion marks billion year largely due lower ",
+  "ncd": 0.7038626670837402
+ },
+ {
+  "text": "crazy eddie crzy sets defensive rights crazy eddie inc said board adopted defensive shareholder rights plan said received friendly inquiries acquisition said plan record april receive right purchase certain circumstances price dlrs preferred share common share held rights expire april nine company s",
+  "gold": "acq",
+  "pred": "earn",
+  "neighbour": "pubco declares dividend right pubco corp said board declared dividend distribution one common stock purchase right outstanding share pubco common stock said right entitle shareholders buy one share common stock exercise price three dlrs rights exercisable person group acquires pct pubco common stock",
+  "ncd": 0.7174796462059021
+ },
+ {
+  "text": "u senate leader calls interest rate cuts senate finance committee chairman lloyd bentsen tex called major industrial countries make pledge coming economic summit venice cut interest rates think summit meeting venice ought trying get major industrial nations involved bring interest rates say one pct ",
+  "gold": "interest",
+  "pred": "trade",
+  "neighbour": "baldrige warns world trade war danger u commerce secretary malcolm baldrige predicted congress pass reasonable trade bill year said tough protectionist legislation could prompt trade war congress right tough trade ever seen six years washington baldrige said weekend television interview think still ",
+  "ncd": 0.8392036557197571
+ },
+ {
+  "text": "trade issues straining ec japan member states european community starting run japan believe repeatedly promised major initiatives open market imports often made minor moves diplomatic sources said several recent actions ec countries bear new willingness least ability japanese government reduce massi",
+  "gold": "trade",
+  "pred": "grain",
+  "neighbour": "ec member states cool cereal plans european community ec member states generally given cool initial reaction proposals european commission cereal price changes related measures coming season ec diplomats said said meetings ec special committee agriculture representatives member states said changes t",
+  "ncd": 0.7939814925193787
+ }
+]
