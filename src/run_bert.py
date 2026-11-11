@@ -7,7 +7,8 @@
    out of our compute budget), predictions saved for McNemar tests against gzip.
 
 Hyperparameters are fixed in advance and not tuned (see HP below). For speed, 5-shot runs
-are scored on a fixed 500-document test sample for the two large corpora (--eval-sample). Uses Apple MPS or
+are scored on a fixed 500-document test sample (--eval-sample 500) for every corpus whose test
+set is larger: KirundiNews, KinyarwandaNews and SwahiliNews (DengueFilipino uses all 346). Uses Apple MPS or
 CUDA when available, otherwise CPU.
 Usage: python src/run_bert.py fewshot|full [--models bert mbert] [--datasets ...]
 Writes results/bert_<setting>.json (accuracy and per-item predictions)."""

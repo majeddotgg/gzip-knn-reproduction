@@ -34,7 +34,7 @@ low-resource / out-of-distribution data) holds under a valid evaluation.
 ## How to run
 
 Requirements: Python ≥ 3.12 (numpy 2.5 needs it). gzip experiments are CPU only (~20 min on 10 cores,
-about 2 CPU-hours); the BERT/mBERT re-runs use a GPU if present (CUDA or Apple MPS, ~40 min).
+about 2 CPU-hours); the BERT/mBERT re-runs use a GPU if present (CUDA or Apple MPS, ~1 hour; several hours on CPU only).
 
 ```bash
 bash run_all.sh            # creates .venv, installs pinned deps, downloads data, runs tests and every experiment
@@ -75,11 +75,11 @@ KinyarwandaNews (full 4,254-document test set) ~20 min, SwahiliNews (300-documen
   numbers are `k1`, `k2_random` and `k2_nearest`.
 * **Test sets.** All datasets use their full test sets except SwahiliNews, which uses a
   fixed 300-document random sample (seed 0): its full 7,338 × 22,207 distance matrix needs
-  about 4 CPU-hours (`python src/run_full.py SwahiliNews --jobs N` runs it).
+  about 5 CPU-hours (`python src/run_full.py SwahiliNews --jobs N` runs it).
 * **BERT/mBERT re-runs** (`run_bert.sh`): bert-base-uncased and bert-base-multilingual-cased,
   128 tokens, untuned hyperparameters fixed in `src/run_bert.py`. 5-shot trials reuse gzip's
   training samples and are scored on a fixed 500-document test sample when the test set is
-  larger (gzip and TF-IDF are re-scored on the same items in `bert_compare.py`). Full-data
+  larger (KirundiNews, KinyarwandaNews, SwahiliNews) (gzip and TF-IDF are re-scored on the same items in `bert_compare.py`). Full-data
   BERT covers KirundiNews and DengueFilipino. GPU training is not bit-for-bit deterministic.
 * **DengueFilipino** uses the official test split; documents with no positive label
   are dropped, as in the original loader (3,181 train / 346 test).
