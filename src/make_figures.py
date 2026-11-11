@@ -52,3 +52,28 @@ ax.set_xticks(x); ax.set_xticklabels(names, fontsize=8); ax.set_ylim(0.5, 1.02)
 ax.set_ylabel("Test accuracy"); ax.legend(fontsize=7, ncol=2, loc="lower left")
 ax.set_title("Full-data accuracy: reported vs. reproduced vs. valid decision rule", fontsize=9)
 fig.tight_layout(); fig.savefig("figures/fig1_full.png", dpi=200)
+
+# Figure 1 of the report: valid gzip + kNN accuracy as k varies
+# (full training data, random tie-breaking, mean of five seeds; data from results/full.json).
+ks = [1, 2, 3, 5, 7]
+style = {"R8": ("#0072B2", "o"), "DengueFilipino": ("#D55E00", "s"),   # Okabe-Ito palette,
+         "SwahiliNews": ("#009E73", "^"), "KinyarwandaNews": ("#CC79A7", "D"),  # colour-blind safe
+         "KirundiNews": ("#E69F00", "v")}
+plt.rcParams.update({"font.family": "serif", "font.size": 11})
+fig, ax = plt.subplots(figsize=(9.3, 4.8))
+ax.axvspan(1.75, 2.25, color="#e0e0e0", zorder=0)
+ax.text(2, 0.936, "paper's k = 2", ha="center", fontsize=10, color="#555555")
+ends = {}
+for name, (col, mk) in style.items():
+    ys = [full[name][f"k{k}_random"] for k in ks]
+    ax.plot(ks, ys, color=col, marker=mk, lw=2, ms=6, zorder=3)
+    ends[name] = ys[-1]
+last = None  # end-of-line labels, nudged apart so they never overlap
+for name, y in sorted(ends.items(), key=lambda kv: -kv[1]):
+    ly = y if last is None else min(y, last - 0.0085); last = ly
+    ax.text(7.2, ly, f"{name} {y:.3f}", va="center", fontsize=10, color=style[name][0])
+ax.set_xticks(ks); ax.set_xlim(0.7, 9.6); ax.set_ylim(0.80, 0.94)
+ax.set_xlabel("k (number of neighbours)"); ax.set_ylabel("Test accuracy")
+ax.grid(axis="y", color="#e6e6e6"); ax.spines[["top", "right"]].set_visible(False)
+fig.tight_layout(); fig.savefig("figures/fig1_k_sensitivity.png", dpi=200)
+print("wrote figures/fig1_k_sensitivity.png")

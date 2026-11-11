@@ -23,7 +23,7 @@ low-resource / out-of-distribution data) holds under a valid evaluation.
 | `src/audit_duplicates.py` | Experiment 4: exact train/test duplicates and label conflicts (`results/duplicates.json`) |
 | `src/run_logs.py` | Experiment 5 (extension): alert detection on BGL logs, random vs template-disjoint splits |
 | `src/stats.py` | Bootstrap 95% CIs, paired gap intervals, exact McNemar tests (gzip k=1 vs TF-IDF) and BGL mean ± SD (`results/stats.json`) |
-| `src/make_figures.py` | Writes `results/summary_tables.md` and `figures/fig1_full.png` |
+| `src/make_figures.py` | Writes `results/summary_tables.md`, `figures/fig1_k_sensitivity.png` (Figure 1 of the report) and `figures/fig1_full.png` (supplementary bar chart) |
 | `tests/test_ncd_knn.py` | Unit tests, incl. a check that our `optimistic` rule gives exactly the accuracy of the original `calc_acc()` |
 | `third_party/npc_gzip_original/` | Two unmodified MIT-licensed files from the authors' repo, used only by that test |
 | `results/` | All numbers reported in the paper (JSON + Markdown tables) |
@@ -57,7 +57,7 @@ KinyarwandaNews (600 test docs) ~14 min, SwahiliNews (300 test docs) ~10 min,
 * TF-IDF+LR: character 2–4-grams (`char_wb`), sublinear tf, ≤200,000 features, LogisticRegression(C=10, max_iter=2000); not tuned.
 * Bootstrap: 1,000 percentile resamples, seed 0. Test subsamples: seed 0.
 * BGL: StratifiedShuffleSplit (random) and GroupShuffleSplit by EventId (template-disjoint), test_size 0.2, seeds 0–4.
-* Tested with Python 3.12, NumPy 2.5, pandas 3.0, scikit-learn 1.9.
+* Tested with Python 3.12; exact package versions are pinned in `requirements.txt`.
 
 ## Notes on choices (read before comparing numbers)
 
