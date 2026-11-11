@@ -39,19 +39,35 @@ open("results/summary_tables.md", "w").write("\n".join(lines) + "\n")
 print("\n".join(lines))
 
 os.makedirs("figures", exist_ok=True)
-names = list(full)
-series = [("Paper (reported)", [full[d]["paper"] for d in names], "#bbbbbb"),
-          ("Ours, k=2 optimistic", [full[d]["k2_optimistic"] for d in names], "#8da0cb"),
-          ("Ours, k=1 (valid)", [full[d]["k1_random"] for d in names], "#1f4e9c"),
-          ("TF-IDF+LR (ours)", [full[d]["tfidf_lr"] for d in names], "#e5a03a")]
+
+# Figure 2 of the report: published results vs. our valid results, full training data.
+# Published values are those reported by Jiang et al. (2023); the paper's gzip numbers use
+# top-2 (optimistic) scoring. Error bars are the 95% bootstrap intervals in results/stats.json.
+stats = json.load(open("results/stats.json"))["full"]
+PAPER_BERT = {"KinyarwandaNews": 0.838, "KirundiNews": 0.879, "DengueFilipino": 0.979,
+              "SwahiliNews": 0.897, "R8": 0.982}
+names = ["KinyarwandaNews", "KirundiNews", "DengueFilipino", "SwahiliNews", "R8"]
+plt.rcParams.update({"font.family": "serif", "font.size": 11})
+series = [  # label, values, (lo, hi) or None, colour, hatch
+    ("Paper gzip (top-2 scoring)", [full[d]["paper"] for d in names], None, "#d9d9d9", "//"),
+    ("Paper BERT", [PAPER_BERT[d] for d in names], None, "#7f7f7f", ""),
+    ("Ours: gzip, k = 1 (valid)", [stats[d]["k1"][0] for d in names],
+     [stats[d]["k1"][1:] for d in names], "#0072B2", ""),
+    ("Ours: TF-IDF+LR", [stats[d]["tfidf_lr"][0] for d in names],
+     [stats[d]["tfidf_lr"][1:] for d in names], "#E69F00", "")]
 x = np.arange(len(names)); w = 0.2
-fig, ax = plt.subplots(figsize=(8, 3.6))
-for i, (lab, vals, col) in enumerate(series):
-    ax.bar(x + (i - 1.5) * w, vals, w, label=lab, color=col)
-ax.set_xticks(x); ax.set_xticklabels(names, fontsize=8); ax.set_ylim(0.5, 1.02)
-ax.set_ylabel("Test accuracy"); ax.legend(fontsize=7, ncol=2, loc="lower left")
-ax.set_title("Full-data accuracy: reported vs. reproduced vs. valid decision rule", fontsize=9)
-fig.tight_layout(); fig.savefig("figures/fig1_full.png", dpi=200)
+fig, ax = plt.subplots(figsize=(9.3, 4.8))
+for i, (lab, vals, ci, col, hatch) in enumerate(series):
+    err = None if ci is None else np.array([[v - lo for v, (lo, hi) in zip(vals, ci)],
+                                            [hi - v for v, (lo, hi) in zip(vals, ci)]])
+    ax.bar(x + (i - 1.5) * w, vals, w, label=lab, color=col, hatch=hatch, edgecolor="#555555",
+           linewidth=0.6, yerr=err, capsize=3, error_kw={"elinewidth": 1, "ecolor": "#333333"})
+ax.set_xticks(x); ax.set_xticklabels(names); ax.set_ylim(0.75, 1.0)
+ax.set_ylabel("Test accuracy"); ax.grid(axis="y", color="#e6e6e6"); ax.set_axisbelow(True)
+ax.spines[["top", "right"]].set_visible(False)
+ax.legend(fontsize=10, ncol=4, loc="upper center", bbox_to_anchor=(0.5, 1.12), frameon=False)
+fig.tight_layout(); fig.savefig("figures/fig2_published_vs_valid.png", dpi=200)
+print("wrote figures/fig2_published_vs_valid.png")
 
 # Figure 1 of the report: valid gzip + kNN accuracy as k varies
 # (full training data, random tie-breaking, mean of five seeds; data from results/full.json).

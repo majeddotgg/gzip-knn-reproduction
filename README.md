@@ -23,7 +23,7 @@ low-resource / out-of-distribution data) holds under a valid evaluation.
 | `src/audit_duplicates.py` | Experiment 4: exact train/test duplicates and label conflicts (`results/duplicates.json`) |
 | `src/run_logs.py` | Experiment 5 (extension): alert detection on BGL logs, random vs template-disjoint splits |
 | `src/stats.py` | Bootstrap 95% CIs, paired gap intervals, exact McNemar tests (gzip k=1 vs TF-IDF) and BGL mean ± SD (`results/stats.json`) |
-| `src/make_figures.py` | Writes `results/summary_tables.md`, `figures/fig1_k_sensitivity.png` (Figure 1 of the report) and `figures/fig1_full.png` (supplementary bar chart) |
+| `src/make_figures.py` | Writes `results/summary_tables.md`, `figures/fig1_k_sensitivity.png` (Figure 1 of the report) and `figures/fig2_published_vs_valid.png` (Figure 2) |
 | `tests/test_ncd_knn.py` | Unit tests, incl. a check that our `optimistic` rule gives exactly the accuracy of the original `calc_acc()` |
 | `third_party/npc_gzip_original/` | Two unmodified MIT-licensed files from the authors' repo, used only by that test |
 | `results/` | All numbers reported in the paper (JSON + Markdown tables) |
@@ -40,7 +40,7 @@ or step by step:
 
 ```bash
 pip install -r requirements.txt
-bash scripts/download_data.sh      # public data from Hugging Face, TextGCN and Loghub
+bash scripts/download_data.sh      # pinned public data from Hugging Face, TextGCN and Loghub, checksum-verified
 python -m pytest -q tests          # 6 tests
 bash scripts/run_full_all.sh       # Exp. 1 distance matrices (slowest step)
 bash scripts/run_rest.sh           # Exp. 2-5, tables and figure
@@ -58,6 +58,8 @@ KinyarwandaNews (600 test docs) ~14 min, SwahiliNews (300 test docs) ~10 min,
 * Bootstrap: 1,000 percentile resamples, seed 0. Test subsamples: seed 0.
 * BGL: StratifiedShuffleSplit (random) and GroupShuffleSplit by EventId (template-disjoint), test_size 0.2, seeds 0–4.
 * Tested with Python 3.12; exact package versions are pinned in `requirements.txt`.
+* Data sources are pinned to fixed revisions (Hugging Face parquet commits, GitHub commit SHAs) and
+  checked against `data/SHA256SUMS`, so a rerun uses exactly the data behind `results/`.
 
 ## Notes on choices (read before comparing numbers)
 
