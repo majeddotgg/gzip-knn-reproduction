@@ -10,7 +10,7 @@
   "text": "Nilalagnat na ko pucha walang makakapigil sakin papasok parin ako letse konting araw nalang",
   "gold": "2",
   "pred": "0",
-  "neighbour": "Wala na nga akong lagnat pero sakit parin ng lalamunan ko???",
+  "neighbour": "siguro kung makakagraduate lang ako with honors ng absent ng absent, minsan lang aq papasok lt",
   "ncd": 0.5056179761886597
  },
  {
@@ -52,7 +52,7 @@
   "text": "I've woken up to find myself with a slight fever multiple times na :-? Wonder what's wrong",
   "gold": "2",
   "pred": "3",
-  "neighbour": "Slightly chapped lips + feels like I'm coming down with a fever, gahh hassle ?",
+  "neighbour": "It's 3am and my instincts are woken up by these mosquitoes.",
   "ncd": 0.5555555820465088
  },
  {
@@ -80,7 +80,7 @@
   "text": "@sndrmrnrvz saro lang ha? May sipon ka pa ?",
   "gold": "2",
   "pred": "0",
-  "neighbour": "Lagnat pls distansya muna dami ggawin bukas",
+  "neighbour": "No duty x no school for me bcs sick af ???",
   "ncd": 0.4444444477558136
  },
  {
@@ -101,7 +101,7 @@
   "text": "Hindi ko alam kung mainit lang ba talaga o nilalagnat na ko. Hahaha",
   "gold": "2",
   "pred": "3",
-  "neighbour": "Wala na nga akong lagnat pero sakit parin ng lalamunan ko???",
+  "neighbour": "Gago tong mga lamok na to. Pag kayo natulog kakagatin ko din kayo",
   "ncd": 0.43421053886413574
  },
  {
@@ -143,7 +143,7 @@
   "text": "Bat ba kapag nasa hospital ka ang bagal ng oras??",
   "gold": "2",
   "pred": "3",
-  "neighbour": "worth it ba ang pag aabsent ko ? hahahah lp nga eh",
+  "neighbour": "kainaman na ang lamok ? pati labi ko kinagat ????????",
   "ncd": 0.4153846204280853
  },
  {
@@ -213,7 +213,7 @@
   "text": "@teddyboylocsin @shattershards @cnnphilippines \n\nImmunization from impeachment vaccine maintains immunity from lawsuits.\n... wins immunity!",
   "gold": "2",
   "pred": "0",
-  "neighbour": "excuse excuse excuse letter na naman po si ako hahah \nsorry ser, last na po yan.\n\nLadyLuster Unveiled\n#KCAPinoyStar #NadineLustre",
+  "neighbour": "Ako lng ba yung \"ill ask permission to absent 2 days before march 2?\"\nHahahaa\nTapang ni gwen oh. Hahaha",
   "ncd": 0.6290322542190552
  },
  {
@@ -227,14 +227,14 @@
   "text": "absent ko kay late nako nag mata.. this is getting worse",
   "gold": "0",
   "pred": "3",
-  "neighbour": "Umattend sa wala lang ako kanina eh.inabsentan ako syet",
+  "neighbour": "pag hindi lamok, langaw naman nang iirita sa tenga ko",
   "ncd": 0.4084506928920746
  },
  {
   "text": "i cant stay in the lib im coughing very loudly huhuhuhu",
   "gold": "2",
   "pred": "1",
-  "neighbour": "that moment when you got the license to absent",
+  "neighbour": "@clarissejelrn ddtos dengue and respi ba haa",
   "ncd": 0.44117647409439087
  },
  {
@@ -262,7 +262,7 @@
   "text": "balik hospital fr sm pamp. puta kapagoddd ?",
   "gold": "2",
   "pred": "3",
-  "neighbour": "wow valentine's mapupunta pa ko sa hospital?",
+  "neighbour": "huy daghanag lamok diri sa tl building oy ??",
   "ncd": 0.421875
  },
  {
@@ -276,7 +276,7 @@
   "text": "Woo naiyak nanaman ako dahil sa sinat na bwiset na to??",
   "gold": "2",
   "pred": "0",
-  "neighbour": "tngn ayaw ako pahingahin netong pesteng sipon na to ?",
+  "neighbour": "nagpatupad na naman ako ng halfday sa sarili ko ?",
   "ncd": 0.43478259444236755
  }
 ]

@@ -6,5 +6,6 @@ python src/run_fewshot.py
 python src/run_logs.py
 python src/audit_duplicates.py
 python src/evaluate_full.py
+python src/error_breakdown.py
 python src/stats.py
 python src/make_figures.py

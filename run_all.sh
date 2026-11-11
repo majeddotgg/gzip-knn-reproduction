@@ -1,10 +1,17 @@
 #!/usr/bin/env bash
-# One-command reproduction: data -> tests -> all experiments -> tables/figures.
-# CPU only. About 1 hour on a single core (see README for per-step timings).
+# One-command reproduction: environment -> data -> tests -> all experiments -> tables/figures.
+# CPU only. Creates its own virtual environment (.venv) so nothing is installed globally.
+# Needs Python >= 3.12 (set PYTHON=/path/to/python3.12 if python3 is older).
+# Experiment 1 uses all cores by default (set JOBS=N); about 40 minutes on 10 cores.
 set -e
 cd "$(dirname "$0")"
+PY=${PYTHON:-python3}
+"$PY" -c 'import sys; sys.exit(0 if sys.version_info >= (3, 12) else "Python >= 3.12 required (set PYTHON=...)")'
+"$PY" -m venv .venv
+. .venv/bin/activate
 pip install -r requirements.txt
 bash scripts/download_data.sh
 python -m pytest -q tests
 bash scripts/run_full_all.sh
 bash scripts/run_rest.sh
+bash scripts/run_bert.sh

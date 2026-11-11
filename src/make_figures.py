@@ -21,10 +21,12 @@ lines += ["", "## Table B. k sensitivity (random tie-break, mean of 5 seeds)", "
 for d, r in full.items():
     lines.append(f"| {d} | " + " | ".join(f"{r[f'k{k}_random']:.3f}" for k in (1, 2, 3, 5, 7))
                  + f" | {r['k3_optimistic']:.3f} | {r['k5_optimistic']:.3f} |")
-lines += ["", "## Table C. 5-shot (mean ± 95% CI over 5 trials)", "",
+lines += ["", "## Table C. 5-shot (mean ± 95% t-interval over 5 trials)", "",
           "| Dataset | Paper gzip | Ours k=2 optimistic | k=1 | k=2 random | k=2 nearest | TF-IDF+LR |", "|---|---|---|---|---|---|---|"]
+T975 = {1: 12.706, 2: 4.303, 3: 3.182, 4: 2.776, 5: 2.571, 6: 2.447, 7: 2.365, 8: 2.306, 9: 2.262}
 def mci(v):
-    v = np.array(v); return f"{v.mean():.3f}±{1.96*v.std(ddof=1)/np.sqrt(len(v)):.3f}"
+    """Mean ± 95% t-interval half-width (5 trials -> t(4) = 2.776, not the normal 1.96)."""
+    v = np.array(v); return f"{v.mean():.3f}±{T975[len(v) - 1] * v.std(ddof=1) / np.sqrt(len(v)):.3f}"
 for d, runs in few.items():
     g = lambda key: [r[key] for r in runs]
     lines.append(f"| {d} | {PAPER_5[d]:.3f} | {mci(g('k2_optimistic'))} | {mci(g('k1_random'))} | "

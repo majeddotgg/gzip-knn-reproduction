@@ -1,0 +1,147 @@
+{
+ "KinyarwandaNews": {
+  "n_test": 4254,
+  "length_terciles": {
+   "short": {
+    "n": 1416,
+    "max_chars": 1259,
+    "gzip_k1": 0.8778248587570622,
+    "tfidf_lr": 0.9293785310734464
+   },
+   "medium": {
+    "n": 1417,
+    "max_chars": 1909,
+    "gzip_k1": 0.863091037402964,
+    "tfidf_lr": 0.9047282992237121
+   },
+   "long": {
+    "n": 1421,
+    "max_chars": 32815,
+    "gzip_k1": 0.7565095003518649,
+    "tfidf_lr": 0.8409570724841661
+   }
+  },
+  "top_confusion": {
+   "gold": "3",
+   "pred": "0",
+   "count": 56,
+   "share_of_gzip_errors": 0.0785413744740533
+  }
+ },
+ "KirundiNews": {
+  "n_test": 923,
+  "length_terciles": {
+   "short": {
+    "n": 303,
+    "max_chars": 1014,
+    "gzip_k1": 0.9504950495049505,
+    "tfidf_lr": 0.966996699669967
+   },
+   "medium": {
+    "n": 312,
+    "max_chars": 1498,
+    "gzip_k1": 0.8557692307692307,
+    "tfidf_lr": 0.8461538461538461
+   },
+   "long": {
+    "n": 308,
+    "max_chars": 6449,
+    "gzip_k1": 0.8701298701298701,
+    "tfidf_lr": 0.8928571428571429
+   }
+  },
+  "top_confusion": {
+   "gold": "13",
+   "pred": "0",
+   "count": 34,
+   "share_of_gzip_errors": 0.34
+  }
+ },
+ "DengueFilipino": {
+  "n_test": 346,
+  "length_terciles": {
+   "short": {
+    "n": 114,
+    "max_chars": 44,
+    "gzip_k1": 0.8947368421052632,
+    "tfidf_lr": 1.0
+   },
+   "medium": {
+    "n": 116,
+    "max_chars": 86,
+    "gzip_k1": 0.8275862068965517,
+    "tfidf_lr": 0.9913793103448276
+   },
+   "long": {
+    "n": 116,
+    "max_chars": 140,
+    "gzip_k1": 0.8706896551724138,
+    "tfidf_lr": 0.9741379310344828
+   }
+  },
+  "top_confusion": {
+   "gold": "2",
+   "pred": "0",
+   "count": 20,
+   "share_of_gzip_errors": 0.425531914893617
+  }
+ },
+ "SwahiliNews": {
+  "n_test": 300,
+  "length_terciles": {
+   "short": {
+    "n": 100,
+    "max_chars": 1475,
+    "gzip_k1": 0.88,
+    "tfidf_lr": 0.93
+   },
+   "medium": {
+    "n": 100,
+    "max_chars": 2392,
+    "gzip_k1": 0.8,
+    "tfidf_lr": 0.87
+   },
+   "long": {
+    "n": 100,
+    "max_chars": 13895,
+    "gzip_k1": 0.89,
+    "tfidf_lr": 0.88
+   }
+  },
+  "top_confusion": {
+   "gold": "0",
+   "pred": "1",
+   "count": 11,
+   "share_of_gzip_errors": 0.2558139534883721
+  }
+ },
+ "R8": {
+  "n_test": 2189,
+  "length_terciles": {
+   "short": {
+    "n": 728,
+    "max_chars": 175,
+    "gzip_k1": 0.9491758241758241,
+    "tfidf_lr": 0.9766483516483516
+   },
+   "medium": {
+    "n": 731,
+    "max_chars": 380,
+    "gzip_k1": 0.9493844049247606,
+    "tfidf_lr": 0.9863201094391245
+   },
+   "long": {
+    "n": 730,
+    "max_chars": 3367,
+    "gzip_k1": 0.8465753424657534,
+    "tfidf_lr": 0.9383561643835616
+   }
+  },
+  "top_confusion": {
+   "gold": "acq",
+   "pred": "earn",
+   "count": 58,
+   "share_of_gzip_errors": 0.3118279569892473
+  }
+ }
+}

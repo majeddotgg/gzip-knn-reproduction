@@ -45,6 +45,23 @@ def ncd_matrix(test: Sequence[str], train: Sequence[str],
     return out
 
 
+def _ncd_rows(args):
+    test_chunk, train = args
+    return ncd_matrix(test_chunk, train)
+
+
+def ncd_matrix_parallel(test: Sequence[str], train: Sequence[str], jobs: int = 1,
+                        chunk: int = 50) -> np.ndarray:
+    """Same result as ncd_matrix, with test rows split across `jobs` processes."""
+    if jobs <= 1:
+        return ncd_matrix(test, train)
+    from multiprocessing import Pool
+    parts = [(list(test[i:i + chunk]), list(train)) for i in range(0, len(test), chunk)]
+    with Pool(jobs) as pool:
+        blocks = pool.map(_ncd_rows, parts)
+    return np.vstack(blocks).astype(np.float32)
+
+
 TIE_MODES = ("optimistic", "random", "nearest")
 
 

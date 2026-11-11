@@ -33,7 +33,7 @@ def test_k1_equals_nearest_label():
     assert acc == 1.0
 
 
-def test_optimistic_is_top2_and_random_is_lower_bound():
+def test_optimistic_is_top2_and_nearest_is_valid():
     D = np.array([[0.1, 0.2, 0.9]])  # neighbours: a, b -> tie
     _, _, opt = knn_predict(D, ["a", "b", "c"], ["b"], k=2, tie="optimistic")
     _, _, near = knn_predict(D, ["a", "b", "c"], ["b"], k=2, tie="nearest")
@@ -57,3 +57,21 @@ def test_optimistic_rule_equals_original_calc_acc():
     _, corr = exp.calc_acc(2, te_y, train_label=tr_y)
     _, _, ours = knn_predict(D, tr_y, te_y, k=2, tie="optimistic")
     assert ours == pytest.approx(np.mean(corr))
+
+
+def test_random_rule_picks_only_tied_labels_and_is_seeded():
+    """The random rule must choose among the tied labels only, and be reproducible per seed."""
+    D = np.array([[0.1, 0.2, 0.9]] * 200)            # every row: neighbours a, b tie at k = 2
+    tr, te = ["a", "b", "c"], ["a"] * 200
+    p1, _, acc1 = knn_predict(D, tr, te, k=2, tie="random", seed=3)
+    p2, _, acc2 = knn_predict(D, tr, te, k=2, tie="random", seed=3)
+    assert set(p1) == {"a", "b"}                      # never the untied label "c"
+    assert p1 == p2 and acc1 == acc2                  # same seed, same draws
+    assert 0.35 < acc1 < 0.65                         # a coin flip between a and b
+
+
+def test_parallel_matrix_equals_serial():
+    from ncd_knn import ncd_matrix_parallel
+    test = [f"doc {i} " * (i % 7 + 1) for i in range(23)]
+    train = [f"train {j} text " * (j % 5 + 1) for j in range(11)]
+    assert np.array_equal(ncd_matrix(test, train), ncd_matrix_parallel(test, train, jobs=3, chunk=4))

@@ -48,7 +48,7 @@ for name in ["DengueFilipino", "KirundiNews", "R8", "KinyarwandaNews", "SwahiliN
     out[name] = r
     print(name, {k: (round(v, 3) if isinstance(v, float) else v) for k, v in r.items()}, flush=True)
     # store k=1 errors on clean items for manual error analysis
-    order = np.argsort(D, axis=1)[:, 0]
+    order = np.argsort(D, axis=1, kind="stable")[:, 0]
     errs = [{"text": te_x[i][:300], "gold": str(te_y[i]), "pred": str(preds[i]),
              "neighbour": tr_x[order[i]][:300], "ncd": float(D[i, order[i]])}
             for i in range(len(te_y)) if not corr[i] and not dup[i]]
